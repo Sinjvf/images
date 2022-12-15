@@ -1,0 +1,86 @@
+{
+          "debug_info": {
+            "intent_recognizer": [
+              {
+                "debug_info_key": "intent_recognizer",
+                "intent": "popcorn",
+                "asr_not_normalized_message": "хочу попкорн",
+                "used_isearch": true,
+                "node_predictions": {
+                  "regular_expressions": {
+                    "popcorn": 1
+                  }
+                }
+              }
+            ]
+          },
+          "activate_app_info": true,
+          "auto_listening": true,
+          "projectName": "заказ попкорна",
+          "intent": "popcorn",
+          "app_info": {
+            "projectId": "0da9a4a0-cb52-4490-afce-4f535d9d1eb5",
+            "applicationId": "a3940aa5-6efa-4422-b6fb-6df2bf1a1c6e",
+            "appversionId": "ec5cb4c6-9672-4170-9154-a4e9c6429011",
+            "systemName": "popcorn",
+            "frontendEndpoint": "https://google.ru",
+            "frontendType": "WEB_APP",
+            "frontendStateId": "0da9a4a0-cb52-4490-afce-4f535d9d1eb5_a3940aa5-6efa-4422-b6fb-6df2bf1a1c6e_ec5cb4c6-9672-4170-9154-a4e9c6429011",
+            "appearance": {
+              "header": {
+                "title": "Попкорн",
+                "subtitle": "Заказ продуктов",
+                "icon": {
+                  "type": "url",
+                  "url": "https://cdn.sberdevices.ru/static/services/target/30be108e-0aee-494f-95ea-b1a6caac4e9e/bb49cde2-0337-47c3-a275-cb55da056847.png",
+                  "hash": "1fa6729fd447b7c327ca5b105786a749"
+                }
+              }
+            }, 
+            "nativeHeader": true
+          },
+          "items": [
+            {
+              "bubble": {
+                "text": "У нас вкусный попкорн, чипсы, кола и многое другое. Хотите заказать?"
+              }
+            },
+            {
+              "command": {
+                "type": "smart_app_data",
+                "smart_app_data": {
+                  "command": "GO_TO_PROMO",
+                  "device_location": {
+                    "latitude": "55.751704",
+                    "longitude": "37.622665"
+                  }
+                }
+              }
+            }
+          ],
+          "header_buttons":[
+              {
+                 "icon_address":{
+                    "type":"url",
+                    "url":"https://content.sberdevices.ru/smartmarket-smide-prod/97310/97311/EZoPmSYM4knMw9kv.png"
+                 },
+                 "log_id":"operator_header_button",
+                 "actions":[
+                    {
+                       "type":"deep_link",
+                       "deep_link":"messaging://navigation?pageId=messenger&bot_nickname=test_bot&call_operator=true"
+                    }, 
+                    {
+                       "type":"text",
+                       "text":"текст грабли оператора"
+                    }
+                 ]
+              }
+           ],
+          "smartBio": {
+            "IdentifyResponse": {
+              "ErrorCode": "10004"
+            }
+          },
+          "userSettings": {}
+        }
