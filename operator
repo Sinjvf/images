@@ -162,10 +162,7 @@
                  },
                  "log_id":"operator_header_button",
                  "actions":[
-                    {
-                       "type":"deep_link",
-                       "deep_link":"messaging://navigation?pageId=messenger&bot_nickname=test_bot&call_operator=true"
-                    }, 
+                  
                     {
                        "type":"text",
                        "text":"текст грабли оператора"
