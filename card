@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "bubble": {
+        "text": "Прошу",
+        "markdown": true,
+        "expand_policy": "auto_expand"
+      }
+    },
+    {
+      "card": {
+        "cells": [
+          {
+            "left": {
+              "texts": {
+                "title": {
+                  "text": "MasterCard Mass",
+                  "typeface": "headline3",
+                  "text_color": "default",
+                  "max_lines": 3
+                },
+                "subtitle": {
+                  "text": "•• 3554",
+                  "typeface": "footnote1",
+                  "text_color": "secondary",
+                  "margins": {
+                    "bottom": "0x",
+                    "left": "0x",
+                    "right": "0x",
+                    "top": "4x"
+                  },
+                  "max_lines": 3
+                }
+              },
+              "icon_vertical_gravity": "center",
+              "type": "simple_left_view"
+            },
+            "paddings": {
+              "bottom": "6x",
+              "left": "0x",
+              "right": "0x",
+              "top": "6x"
+            },
+            "type": "left_right_cell_view"
+          },
+          {
+            "left": {
+              "icon": {
+                "address": {
+                  "url": "https://va-res.online.sberbank.ru/VA/icons/cards/mc_36_mastercard.png",
+                  "type": "url"
+                },
+                "size": {
+                  "width": "medium",
+                  "height": "medium"
+                },
+                "margins": {
+                  "bottom": "0x",
+                  "left": "0x",
+                  "right": "8x",
+                  "top": "0x"
+                },
+                "tint_color": "solid_brand"
+              },
+              "texts": {
+                "title": {
+                  "text": "14 869,26 ₽",
+                  "typeface": "headline1",
+                  "text_color": "default",
+                  "max_lines": 3
+                }
+              },
+              "icon_vertical_gravity": "center",
+              "type": "simple_left_view"
+            },
+            "paddings": {
+              "bottom": "6x",
+              "left": "0x",
+              "right": "0x",
+              "top": "6x"
+            },
+            "type": "left_right_cell_view"
+          }
+        ],
+        "paddings": {
+          "bottom": "4x",
+          "left": "8x",
+          "right": "8x",
+          "top": "4x"
+        },
+        "background_color": "card_background",
+        "can_be_disabled": false,
+        "type": "list_card"
+      }
+    }
+  ]
+}
