@@ -69,6 +69,8 @@
       },
       "log_id": "operator_header_button",
       "actions": [
+      "type":"text",
+      "text":"some_text"
       ]
     }
   ],
