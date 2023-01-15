@@ -67,8 +67,8 @@
       "log_id": "operator_header_button",
        "actions": [
                 {
-                  "type": "text",
-                  "text": "текст"
+                  "type": "smartapp_text",
+                  "smartapp_text": "текст"
                 }
               ]
     }
