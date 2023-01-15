@@ -68,9 +68,10 @@
         "url": "https://content.sberdevices.ru/smartmarket-smide-prod/97310/97311/EZoPmSYM4knMw9kv.png"
       },
       "log_id": "operator_header_button",
-      "actions": [
+      "actions": [{
       "type":"text",
       "text":"some_text"
+      }
       ]
     }
   ],
