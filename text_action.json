@@ -66,10 +66,6 @@
       },
       "log_id": "operator_header_button",
        "actions": [
-                {
-                      "type": "deep_link",
-                      "deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
-                }
               ]
     }
   ],
