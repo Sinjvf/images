@@ -66,6 +66,7 @@
       },
       "log_id": "operator_header_button",
        "actions": [
+         "type":"smartapp_text","smartapp_text":"text"
               ]
     }
   ],
