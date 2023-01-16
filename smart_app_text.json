@@ -1,0 +1,502 @@
+
+{
+  "activate_app_info": true,
+  "additional_apps_payload": [
+    
+  ],
+  "app_info": {
+    "affiliationType": "INTERNAL",
+    "ageLimit": 6,
+    "allowFastRunApp": false,
+    "apkInfo": {
+      
+    },
+    "appearance": {
+      "header": {
+        "icon": {
+          "hash": "247A766E96C4272B0BB9FFE39F325846",
+          "type": "url",
+          "url": "https://cdn.sberdevices.ru/catalog/images/Supermarket_icon.jpg"
+        },
+        "title": "Заказ продуктов"
+      }
+    },
+    "nativeHeader": true,
+    "applicationId": "3dca1c90-54a8-40c9-854b-5c503b0b8ee3",
+    "appversionId": "479d6b3d-566f-496f-a4a7-9eda6dc5cc52",
+    "availableOrientations": [
+      
+    ],
+    "frontendEndpoint": "https://samokat.prom.app.sberdevices.ru/",
+    "frontendStateId": "bf5f1916-e5b5-4aa8-aa25-32991bcbac43_3dca1c90-54a8-40c9-854b-5c503b0b8ee3_479d6b3d-566f-496f-a4a7-9eda6dc5cc52",
+    "frontendType": "WEB_APP",
+    "projectId": "bf5f1916-e5b5-4aa8-aa25-32991bcbac43",
+    "securityAccess": {
+      
+    },
+    "systemName": "grocery"
+  },
+  "asr_hints": {
+    
+  },
+  "assistant_items": [
+    
+  ],
+  "auto_listening": false,
+  "character": {
+    "id": "sber"
+  },
+  "debug_info": {
+    
+  },
+  "feature_launcher": {
+    "assigned_testing_groups": [
+      
+    ],
+    "foodtech": {
+      "auth_payment_flag": true,
+      "enableNewVersionFavoriteProduct": true,
+      "greenfield_segment_list": [
+        "Mobile",
+        "black_list"
+      ],
+      "ignitePricesEnabled": {
+        "samokat": {
+          "enabled": true
+        },
+        "sbermarket": {
+          "enabled": true
+        }
+      },
+      "igniteProductsEnabled": {
+        "samokat": {
+          "enabled": true
+        },
+        "sbermarket": {
+          "enabled": true
+        }
+      },
+      "isCartRecommendations_config": {
+        "samokat": {
+          "engine": "fcmg_rec_runtime",
+          "model": "co_occurrence_samokat"
+        },
+        "sbermarket": {
+          "engine": "fcmg_rec_runtime",
+          "model": "co_occurrence_sbermarket"
+        }
+      },
+      "isExplicitIhapiEnabled": true,
+      "isSearchBarEnabled": true,
+      "isV2SearchEnabled": true,
+      "paymentBySpasiboEnabled": {
+        "samokat": {
+          "enabled": false
+        },
+        "sbermarket": {
+          "enabled": true
+        }
+      },
+      "samokatMaxProductQuantityLeft": 5,
+      "statusNotificationsOn": true
+    },
+    "nlp_platform": {
+      "greenfield_segment_list": [
+        "sbol_gte_12.0.0",
+        "sbol_version_gte_12.0.0",
+        "ALL_PEOPLES",
+        "COMPANION"
+      ]
+    },
+    "public": {
+      "greenfield_segment_list": [
+        "Mobile",
+        "black_list",
+        "sbol_gte_12.0.0",
+        "sbol_version_gte_12.0.0",
+        "ALL_PEOPLES",
+        "COMPANION"
+      ]
+    }
+  },
+  "finished": false,
+  "intent": "run_app",
+  "items": [
+    {
+      "command": {
+        "smart_app_data": {
+          "address": {
+            "address": {
+              "address_string": "Армянский переулок, 7",
+              "apartment": "Шл",
+              "building": "",
+              "city": "Москва",
+              "confirmed": "",
+              "door_code": "",
+              "entrance": "",
+              "floor": "",
+              "house": "7",
+              "location": {
+                "latitude": "55.760149",
+                "longitude": "37.636379"
+              },
+              "street": "Армянский переулок"
+            },
+            "customer_name": "",
+            "phone_num": "+79690215079"
+          },
+          "cart": {
+            "items": [
+              {
+                "count": 3,
+                "id": "fd7d4650-36f3-11ec-85ad-1c34dae33151",
+                "merchantId": "c540fd1a-8c8a-11eb-85a8-1c34dae33151",
+                "partnerId": "SAMOKAT",
+                "retailerId": "SAMOKAT"
+              }
+            ],
+            "stock": [
+              {
+                "brand": "Самокат",
+                "brief": "Молоко Самокат пастеризованное, 1,5%, 1,8 л",
+                "carbohydrate": "4,7",
+                "country": "Россия",
+                "cutInformation": "1,8 л",
+                "description": null,
+                "energy": "45",
+                "fat": "1,5",
+                "id": "fd7d4650-36f3-11ec-85ad-1c34dae33151",
+                "imageUrl": [
+                  "https://cm.samokat.ru/original/111062_1555532939.jpg"
+                ],
+                "imageUrls": [
+                  {
+                    "medium": "https://cm.samokat.ru/original/111062_1555532939.jpg",
+                    "original": "https://cm.samokat.ru/original/111062_1555532939.jpg",
+                    "small": "https://cm.samokat.ru/original/111062_1555532939.jpg"
+                  }
+                ],
+                "ingredients": "Молоко обезжиренное, молоко цельное",
+                "manufacturer": "ООО Молочная Культура",
+                "merchantId": "c540fd1a-8c8a-11eb-85a8-1c34dae33151",
+                "name": "Молоко Самокат пастеризованное, 1,5%, 1,8 л",
+                "nameCut": "Молоко Самокат пастеризованное, 1,5%",
+                "packSize": null,
+                "pricePerUnit": {
+                  "ccy": "RUB",
+                  "discountValue": 17500,
+                  "value": 20600
+                },
+                "productType": null,
+                "protein": "3",
+                "quantity": 7,
+                "rank": 0,
+                "requiredQuantity": null,
+                "shelfLife": "14",
+                "size": null,
+                "storageConditions": "При температуре от +2°C до +6°C",
+                "type": "PRODUCT",
+                "volume": null,
+                "weight": "1800"
+              }
+            ]
+          },
+          "clientFlags": {
+            "c2bChatAppsEnabled": true,
+            "messengerEnabled": true,
+            "salute20Enabled": true
+          },
+          "closedFavouriteProductDescription": false,
+          "command": "GO_TO_SHOP",
+          "device_location": {
+            "latitude": "55.751704",
+            "longitude": "37.622665"
+          },
+          "feature_flags": {
+            "isFirstOrderPromo": {
+              "value": true
+            },
+            "sbermarket": {
+              "surface": [
+                "DEMO_APP",
+                "COMPANION",
+                "SBOL",
+                "SBERBOX",
+                "TIME",
+                "OKKO_SMARTBOX",
+                "TV",
+                "TV_HUAWEI",
+                "SAMSUNG_TV",
+                "SATELLITE"
+              ],
+              "value": true
+            }
+          },
+          "feature_launcher": {
+            "auth_payment_flag": true,
+            "enableNewVersionFavoriteProduct": true,
+            "greenfield_segment_list": [
+              "Mobile",
+              "black_list"
+            ],
+            "ignitePricesEnabled": {
+              "samokat": {
+                "enabled": true
+              },
+              "sbermarket": {
+                "enabled": true
+              }
+            },
+            "igniteProductsEnabled": {
+              "samokat": {
+                "enabled": true
+              },
+              "sbermarket": {
+                "enabled": true
+              }
+            },
+            "isCartRecommendations_config": {
+              "samokat": {
+                "engine": "fcmg_rec_runtime",
+                "model": "co_occurrence_samokat"
+              },
+              "sbermarket": {
+                "engine": "fcmg_rec_runtime",
+                "model": "co_occurrence_sbermarket"
+              }
+            },
+            "isExplicitIhapiEnabled": true,
+            "isSearchBarEnabled": true,
+            "isV2SearchEnabled": true,
+            "paymentBySpasiboEnabled": {
+              "samokat": {
+                "enabled": false
+              },
+              "sbermarket": {
+                "enabled": true
+              }
+            },
+            "samokatMaxProductQuantityLeft": 5,
+            "statusNotificationsOn": true
+          },
+          "hsub": "rC9CsCnkndcPiDete4414OogeUjH7WLCt/dAhIYuU/gW+S2GhhtIJj9pNTvN3cAix0gSmaWCKVbzLu8MEPXopRTEJxGIp4W9zA1VzVuzz0ivBZRt8++iMNRJlSBR7JwgN0fKaBnBQb4LvM8P57sixXep7Jg4gJs8W6JKNXnhJxs=",
+          "isAgreementSubmitted": true,
+          "isDefaultAddress": false,
+          "isDemoMode": false,
+          "merchantId": "c540fd1a-8c8a-11eb-85a8-1c34dae33151",
+          "merchants": [
+            {
+              "deliveryOptions": [
+                {
+                  "deliveryPrice": {
+                    "ccy": "RUB",
+                    "discountValue": 0,
+                    "value": 0
+                  },
+                  "id": "on_demand",
+                  "minimalAmount": {
+                    "ccy": "RUB",
+                    "value": 39000
+                  },
+                  "time": 30,
+                  "type": "ON_DEMAND"
+                }
+              ],
+              "hold": 0,
+              "id": "c540fd1a-8c8a-11eb-85a8-1c34dae33151",
+              "imageUrl": [
+                "https://cdn.sberdevices.ru/supermarket/samokat_logo.png"
+              ],
+              "isOpen": true,
+              "name": "Самокат",
+              "partner": "SAMOKAT",
+              "rank": 0,
+              "retailer": "SAMOKAT",
+              "sale": 7
+            },
+            {
+              "deliveryOptions": [
+                {
+                  "deliveryPrice": {
+                    "ccy": "RUB",
+                    "discountValue": 0,
+                    "value": 0
+                  },
+                  "from": "2022-12-26T18:00:00Z",
+                  "id": "by_courier:8e59c854-0ab2-4f62-8a03-5e7e28433dd8",
+                  "minimalAmount": {
+                    "ccy": "RUB",
+                    "value": 150000
+                  },
+                  "to": "2022-12-26T21:00:00Z",
+                  "type": "TIME_FRAME"
+                }
+              ],
+              "hold": 0,
+              "id": "123ce898-d36c-4f6a-850c-9a788cdd0fdc",
+              "imageUrl": [
+                "https://cdn.sberdevices.ru/supermarket/Metro.png"
+              ],
+              "isOpen": true,
+              "name": "METRO, Москва, 1я Дубровская 13а, с1",
+              "partner": "SBERMARKET",
+              "rank": 1,
+              "retailer": "metro",
+              "sale": 0
+            },
+            {
+              "deliveryOptions": [
+                {
+                  "deliveryPrice": {
+                    "ccy": "RUB",
+                    "discountValue": 0,
+                    "value": 0
+                  },
+                  "from": "2022-12-27T08:00:00Z",
+                  "id": "by_courier:303f7fa2-cb58-4b6a-98b9-5a418115c84d",
+                  "minimalAmount": {
+                    "ccy": "RUB",
+                    "value": 150000
+                  },
+                  "to": "2022-12-27T11:00:00Z",
+                  "type": "TIME_FRAME"
+                }
+              ],
+              "hold": 0,
+              "id": "d989a69e-2fe3-4752-88c2-e4087408ad67",
+              "imageUrl": [
+                "https://cdn.sberdevices.ru/supermarket/Lenta.png"
+              ],
+              "isOpen": true,
+              "name": "ЛЕНТА, Москва, Ярославское шоссе, 54",
+              "partner": "SBERMARKET",
+              "rank": 2,
+              "retailer": "lenta",
+              "sale": 0
+            },
+            {
+              "deliveryOptions": [
+                {
+                  "deliveryPrice": {
+                    "ccy": "RUB",
+                    "discountValue": 0,
+                    "value": 0
+                  },
+                  "from": "2022-12-26T18:00:00Z",
+                  "id": "by_courier:60994005-bc94-45d8-a7d4-5264f85c39ba",
+                  "minimalAmount": {
+                    "ccy": "RUB",
+                    "value": 150000
+                  },
+                  "to": "2022-12-26T21:00:00Z",
+                  "type": "TIME_FRAME"
+                }
+              ],
+              "hold": 0,
+              "id": "2c334dcf-0e75-4f12-a766-2717d92514e8",
+              "imageUrl": [
+                "https://cdn.sberdevices.ru/supermarket/Auchan.png"
+              ],
+              "isOpen": true,
+              "name": "АШАН, Москва, улица Верхняя Красносельская, 3А",
+              "partner": "SBERMARKET",
+              "rank": 3,
+              "retailer": "auchan",
+              "sale": 0
+            },
+            {
+              "deliveryOptions": [
+                {
+                  "deliveryPrice": {
+                    "ccy": "RUB",
+                    "discountValue": 0,
+                    "value": 0
+                  },
+                  "from": "2022-12-26T19:00:00Z",
+                  "id": "by_courier:d356d01b-aac9-426c-ade8-ce952e71cd92",
+                  "minimalAmount": {
+                    "ccy": "RUB",
+                    "value": 150000
+                  },
+                  "to": "2022-12-26T22:00:00Z",
+                  "type": "TIME_FRAME"
+                }
+              ],
+              "hold": 0,
+              "id": "2f5e97ab-166e-4f2e-8f96-054d389b8603",
+              "imageUrl": [
+                "https://cdn.sberdevices.ru/supermarket/Okey.png"
+              ],
+              "isOpen": true,
+              "name": "О'КЕЙ, Каширское ш",
+              "partner": "SBERMARKET",
+              "rank": 4,
+              "retailer": "okey",
+              "sale": 0
+            },
+            {
+              "deliveryOptions": [
+                {
+                  "deliveryPrice": {
+                    "ccy": "RUB",
+                    "discountValue": 0,
+                    "value": 0
+                  },
+                  "from": "2022-12-26T18:00:00Z",
+                  "id": "by_courier:a48c59e0-fa32-453c-862d-f4a911875a5a",
+                  "minimalAmount": {
+                    "ccy": "RUB",
+                    "value": 50000
+                  },
+                  "to": "2022-12-26T19:00:00Z",
+                  "type": "TIME_FRAME"
+                }
+              ],
+              "hold": 0,
+              "id": "e0b97693-eb2b-4481-9ab7-86bcbb6a3d50",
+              "imageUrl": [
+                "https://cdn.sberdevices.ru/supermarket/Vkusvill.png"
+              ],
+              "isOpen": true,
+              "name": "ВКУСВИЛЛ, Покровка 8",
+              "partner": "SBERMARKET",
+              "rank": 11,
+              "retailer": "vkusvill",
+              "sale": 0
+            }
+          ],
+          "minimal_amount": 20000,
+          "sale": 7,
+          "surface": "COMPANION",
+          "surface_version": "23.1.1001",
+          "time": 15
+        },
+        "type": "smart_app_data"
+      }
+    }
+  ],
+  "original_intent": "run_app",
+  "projectName": "Заказ продуктов",
+  "header_buttons": [
+    {
+      "icon_address": {
+        "type": "url",
+        "url": "https://content.sberdevices.ru/smartmarket-smide-prod/97310/97311/EZoPmSYM4knMw9kv.png"
+      },
+      "log_id": "operator_header_button",
+      "actions": [
+        {
+          "type": "smartapp_text",
+          "smartapp_text": "действие, обрабатываемое на стороне canvas"
+        }
+      ]
+    }
+  ],
+  "smartBio": {
+    
+  },
+  "userSettings": {
+    "initials": "ПТ"
+  },
+  "voice": "She_HQ"
+}
