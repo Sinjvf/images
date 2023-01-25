@@ -1,0 +1,57 @@
+{
+                    "type": "discovery_card",
+                    "cells": {
+                      "top_cell": {
+                        "type": "horizontal_cells_view",
+                        "cells": [
+                          {
+                            "type": "vertical_icon_text_view",
+                            "icon": {
+                              "rounded_corners": "rounded",
+                              "size": {
+                                "width": "large",
+                                "height": "large"
+                              },
+                              "address": {
+                                "type": "url",
+                                "url": "https://va-res.online.sberbank.ru/VA/images/launcher/icons/paydoc.png"
+                              }
+                            },
+                            "texts": {
+                              "title": {
+                                "text": "Показать платежи",
+                                "typeface": "underline",
+                                "text_color": "default",
+                                "margins": {
+                                  "top": "2x"
+                                },
+                                "max_lines": 2,
+                                "alignment": "center"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "log_id": "promo_small",
+                    "aspect_ratio": "1:1",
+                    "background_color": "#00000000",
+                    "width": {
+                      "type": "fixed",
+                      "value": 70
+                    },
+                    "height": {
+                      "type": "fixed",
+                      "value": 100
+                    },
+                    "actions": [
+                      {
+                        "type": "deep_link",
+                        "deep_link": "android-app://ru.sberbankmobile_alpha/android-app/ru.sberbankmobile_alpha/assistant/launcher?systemName=fin_advisor&action_id=run_app&scenario=pfm_my_obligations&sT=card&sN=promo_gallery_small.fin_advisor"
+                      }
+                    ],
+                    "paddings": {
+                      "left": "2x",
+                      "right": "2x"
+                    }
+                  }
