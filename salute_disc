@@ -1,4 +1,8 @@
 {
+                "type": "widget_gallery",
+                "log_id": "small_gallery",
+                "items": [
+                  {
                     "type": "discovery_card",
                     "cells": {
                       "top_cell": {
@@ -54,4 +58,344 @@
                       "left": "2x",
                       "right": "2x"
                     }
+                  },
+                  {
+                    "type": "discovery_card",
+                    "cells": {
+                      "top_cell": {
+                        "type": "horizontal_cells_view",
+                        "cells": [
+                          {
+                            "type": "vertical_icon_text_view",
+                            "icon": {
+                              "rounded_corners": "rounded",
+                              "size": {
+                                "width": "large",
+                                "height": "large"
+                              },
+                              "address": {
+                                "type": "url",
+                                "url": "https://va-res.online.sberbank.ru/VA/images/launcher/icons/coins.png"
+                              }
+                            },
+                            "texts": {
+                              "title": {
+                                "text": "Показать доходы",
+                                "typeface": "underline",
+                                "text_color": "default",
+                                "margins": {
+                                  "top": "2x"
+                                },
+                                "max_lines": 2,
+                                "alignment": "center"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "log_id": "promo_small",
+                    "background_color": "#00000000",
+                    "width": {
+                      "type": "fixed",
+                      "value": 70
+                    },
+                    "height": {
+                      "type": "fixed",
+                      "value": 100
+                    },
+                    "actions": [
+                      {
+                        "type": "deep_link",
+                        "deep_link": "android-app://ru.sberbankmobile_alpha/android-app/ru.sberbankmobile_alpha/assistant/launcher?systemName=fin_advisor&action_id=run_app&scenario=pfm_my_income&period_name=month&sT=card&sN=promo_gallery_small.fin_advisor"
+                      }
+                    ],
+                    "paddings": {
+                      "left": "2x",
+                      "right": "2x"
+                    }
+                  },
+                  {
+                    "type": "discovery_card",
+                    "cells": {
+                      "top_cell": {
+                        "type": "horizontal_cells_view",
+                        "cells": [
+                          {
+                            "type": "vertical_icon_text_view",
+                            "icon": {
+                              "rounded_corners": "rounded",
+                              "size": {
+                                "width": "large",
+                                "height": "large"
+                              },
+                              "address": {
+                                "type": "url",
+                                "url": "https://va-res.online.sberbank.ru/VA/images/launcher/icons/my_wallet.png"
+                              }
+                            },
+                            "texts": {
+                              "title": {
+                                "text": "Показать баланс",
+                                "typeface": "underline",
+                                "text_color": "default",
+                                "margins": {
+                                  "top": "2x"
+                                },
+                                "max_lines": 2,
+                                "alignment": "center"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "log_id": "promo_small",
+                    "background_color": "#00000000",
+                    "width": {
+                      "type": "fixed",
+                      "value": 70
+                    },
+                    "height": {
+                      "type": "fixed",
+                      "value": 100
+                    },
+                    "actions": [
+                      {
+                        "type": "deep_link",
+                        "deep_link": "android-app://ru.sberbankmobile_alpha/android-app/ru.sberbankmobile_alpha/assistant/launcher?systemName=fin_advisor&action_id=run_app&scenario=pfm_total_finance&sT=card&sN=promo_gallery_small.fin_advisor&deeplink_guid=sbol_launcher_deeplink&campaign_name=sbol_launcher"
+                      }
+                    ],
+                    "paddings": {
+                      "left": "2x",
+                      "right": "2x"
+                    }
+                  },
+                  {
+                    "type": "discovery_card",
+                    "cells": {
+                      "top_cell": {
+                        "type": "horizontal_cells_view",
+                        "cells": [
+                          {
+                            "type": "vertical_icon_text_view",
+                            "icon": {
+                              "rounded_corners": "rounded",
+                              "size": {
+                                "width": "large",
+                                "height": "large"
+                              },
+                              "address": {
+                                "type": "url",
+                                "url": "https://va-res.online.sberbank.ru/VA/images/launcher/icons/single_arrow.png"
+                              }
+                            },
+                            "texts": {
+                              "title": {
+                                "text": "Сделать перевод",
+                                "typeface": "underline",
+                                "text_color": "default",
+                                "margins": {
+                                  "top": "2x"
+                                },
+                                "max_lines": 2,
+                                "alignment": "center"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "log_id": "promo_small",
+                    "background_color": "#00000000",
+                    "width": {
+                      "type": "fixed",
+                      "value": 70
+                    },
+                    "height": {
+                      "type": "fixed",
+                      "value": 100
+                    },
+                    "actions": [
+                      {
+                        "type": "deep_link",
+                        "deep_link": "android-app://ru.sberbankmobile_alpha/android-app/ru.sberbankmobile_alpha/assistant/launcher?systemName=p2p&action_id=run_app&sT=card&sN=promo_gallery_small.p2p"
+                      }
+                    ],
+                    "paddings": {
+                      "left": "2x",
+                      "right": "2x"
+                    }
+                  },
+                  {
+                    "type": "discovery_card",
+                    "cells": {
+                      "top_cell": {
+                        "type": "horizontal_cells_view",
+                        "cells": [
+                          {
+                            "type": "vertical_icon_text_view",
+                            "icon": {
+                              "rounded_corners": "rounded",
+                              "size": {
+                                "width": "large",
+                                "height": "large"
+                              },
+                              "address": {
+                                "type": "url",
+                                "url": "https://va-res.online.sberbank.ru/VA/images/launcher/icons/my_card.png"
+                              }
+                            },
+                            "texts": {
+                              "title": {
+                                "text": "Баланс карты",
+                                "typeface": "underline",
+                                "text_color": "default",
+                                "margins": {
+                                  "top": "2x"
+                                },
+                                "max_lines": 2,
+                                "alignment": "center"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "log_id": "promo_small",
+                    "background_color": "#00000000",
+                    "width": {
+                      "type": "fixed",
+                      "value": 70
+                    },
+                    "height": {
+                      "type": "fixed",
+                      "value": 100
+                    },
+                    "actions": [
+                      {
+                        "type": "deep_link",
+                        "deep_link": "android-app://ru.sberbankmobile_alpha/android-app/ru.sberbankmobile_alpha/assistant/launcher?systemName=fin_advisor&action_id=run_app&scenario=pfm_total_finance&sT=card&sN=promo_gallery_small.fin_advisor&deeplink_guid=sbol_launcher_deeplink&campaign_name=sbol_launcher"
+                      }
+                    ],
+                    "paddings": {
+                      "left": "2x",
+                      "right": "2x"
+                    }
+                  },
+                  {
+                    "type": "discovery_card",
+                    "cells": {
+                      "top_cell": {
+                        "type": "horizontal_cells_view",
+                        "cells": [
+                          {
+                            "type": "vertical_icon_text_view",
+                            "icon": {
+                              "rounded_corners": "rounded",
+                              "size": {
+                                "width": "large",
+                                "height": "large"
+                              },
+                              "address": {
+                                "type": "url",
+                                "url": "https://va-res.online.sberbank.ru/VA/images/launcher/icons/small_wallet.png"
+                              }
+                            },
+                            "texts": {
+                              "title": {
+                                "text": "Найти кредит",
+                                "typeface": "underline",
+                                "text_color": "default",
+                                "margins": {
+                                  "top": "2x"
+                                },
+                                "max_lines": 2,
+                                "alignment": "center"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "log_id": "promo_small",
+                    "background_color": "#00000000",
+                    "width": {
+                      "type": "fixed",
+                      "value": 70
+                    },
+                    "height": {
+                      "type": "fixed",
+                      "value": 100
+                    },
+                    "actions": [
+                      {
+                        "type": "deep_link",
+                        "deep_link": "android-app://ru.sberbankmobile_alpha/android-app/ru.sberbankmobile_alpha/assistant/launcher?systemName=How_to_get_a_loan&action_id=run_app&sT=card&sN=promo_gallery_small.How_to_get_a_loan"
+                      }
+                    ],
+                    "paddings": {
+                      "left": "2x",
+                      "right": "2x"
+                    }
+                  },
+                  {
+                    "type": "discovery_card",
+                    "cells": {
+                      "top_cell": {
+                        "type": "horizontal_cells_view",
+                        "cells": [
+                          {
+                            "type": "vertical_icon_text_view",
+                            "icon": {
+                              "rounded_corners": "rounded",
+                              "size": {
+                                "width": "large",
+                                "height": "large"
+                              },
+                              "address": {
+                                "type": "url",
+                                "url": "https://va-res.online.sberbank.ru/VA/images/launcher/icons/catalog_small_icon.png",
+                                "hash": "c2c0998eb3a678fde975e766c82f2862"
+                              }
+                            },
+                            "texts": {
+                              "title": {
+                                "text": "Все сервисы",
+                                "typeface": "underline",
+                                "text_color": "default",
+                                "margins": {
+                                  "top": "2x"
+                                },
+                                "max_lines": 2,
+                                "alignment": "center"
+                              }
+                            }
+                          }
+                        ]
+                      }
+                    },
+                    "log_id": "promo_small",
+                    "background_color": "#00000000",
+                    "width": {
+                      "type": "fixed",
+                      "value": 70
+                    },
+                    "height": {
+                      "type": "fixed",
+                      "value": 100
+                    },
+                    "actions": [
+                      {
+                        "type": "deep_link",
+                        "deep_link": "android-app://ru.sberbankmobile_alpha/android-app/ru.sberbankmobile_alpha/assistant/launcher?systemName=catalog&deeplink_guid=sbol_launcher_deeplink&action_id=RUN_APP_DEEPLINK&type=APPLICATION/SHOW&sT=catalog&sN=catalog.catalog&sT=card&sN=promo_gallery_small.catalog"
+                      }
+                    ],
+                    "paddings": {
+                      "left": "2x",
+                      "right": "2x"
+                    }
                   }
+                ]
+              }
+          
