@@ -38,7 +38,7 @@
         "right": {
           "type": "detail_right_view",
           "detail": {
-            "text": "465000,00 ₽",
+            "text": "4650001,00 ₽",
             "typeface": "body3",
             "text_color": "brand",
             "max_lines": 1
