@@ -49,7 +49,8 @@
               "text": "+11,10 %",
               "typeface": "body1",
               "text_color": "brand",
-              "max_lines": 1
+              "max_lines": 1,
+              "alignment": "left"
             }
           }
         }
