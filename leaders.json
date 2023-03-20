@@ -1,0 +1,212 @@
+{
+  "card": {
+    "type": "list_card",
+    "paddings": {
+      "left": "8x",
+      "right": "8x"
+    },
+    "cells": [
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "Лидеры роста",
+          "typeface": "headline3",
+          "text_color": "default",
+          "max_lines": 0
+        },
+        "paddings": {
+          "top": "10x",
+          "bottom": "2x"
+        }
+      },
+      {
+        "type": "left_right_cell_view",
+        "paddings": {
+          "top": "4x"
+        },
+        "left": {
+          "type": "simple_left_view",
+          "texts": {
+            "title": {
+              "text": "OZON • Ozon Holdings PLC",
+              "typeface": "headline3",
+              "text_color": "default",
+              "max_lines": 1
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "detail": {
+            "text": "465000,00 ₽",
+            "typeface": "body3",
+            "text_color": "brand",
+            "max_lines": 1
+          },
+          "vertical_gravity": "bottom",
+          "info_and_icon": {
+            "info": {
+              "text": "+11,10 %",
+              "typeface": "body1",
+              "text_color": "brand",
+              "max_lines": 1
+            }
+          }
+        }
+      },
+      {
+        "type": "left_right_cell_view",
+        "paddings": {
+          "top": "4x"
+        },
+        "left": {
+          "type": "simple_left_view",
+          "texts": {
+            "title": {
+              "text": "RGSS • Росгосстрах СК ПАО",
+              "typeface": "headline3",
+              "text_color": "default",
+              "max_lines": 1
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "detail": {
+            "text": "0,25 ₽",
+            "typeface": "body3",
+            "text_color": "brand",
+            "max_lines": 1
+          },
+          "vertical_gravity": "bottom",
+          "info_and_icon": {
+            "info": {
+              "text": "+7,74 %",
+              "typeface": "body1",
+              "text_color": "brand",
+              "max_lines": 1
+            }
+          }
+        }
+      },
+      {
+        "type": "left_right_cell_view",
+        "paddings": {
+          "top": "4x"
+        },
+        "left": {
+          "type": "simple_left_view",
+          "texts": {
+            "title": {
+              "text": "NKHP • НКХП ПАО",
+              "typeface": "headline3",
+              "text_color": "default",
+              "max_lines": 1
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "detail": {
+            "text": "387,00 ₽",
+            "typeface": "body3",
+            "text_color": "brand",
+            "max_lines": 1
+          },
+          "vertical_gravity": "bottom",
+          "info_and_icon": {
+            "info": {
+              "text": "+4,74 %",
+              "typeface": "body1",
+              "text_color": "brand",
+              "max_lines": 1
+            }
+          }
+        }
+      },
+      {
+        "type": "left_right_cell_view",
+        "paddings": {
+          "top": "4x"
+        },
+        "left": {
+          "type": "simple_left_view",
+          "texts": {
+            "title": {
+              "text": "YRSB • ТНС энерго Ярославль ПАО",
+              "typeface": "headline3",
+              "text_color": "default",
+              "max_lines": 1
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "detail": {
+            "text": "270,00 ₽",
+            "typeface": "body3",
+            "text_color": "brand",
+            "max_lines": 1
+          },
+          "vertical_gravity": "bottom",
+          "info_and_icon": {
+            "info": {
+              "text": "+4,65 %",
+              "typeface": "body1",
+              "text_color": "brand",
+              "max_lines": 1
+            }
+          }
+        }
+      },
+      {
+        "type": "left_right_cell_view",
+        "paddings": {
+          "top": "4x"
+        },
+        "left": {
+          "type": "simple_left_view",
+          "texts": {
+            "title": {
+              "text": "SARE • Саратовэнерго ПАО",
+              "typeface": "headline3",
+              "text_color": "default",
+              "max_lines": 1
+            }
+          }
+        },
+        "right": {
+          "type": "detail_right_view",
+          "detail": {
+            "text": "0,13 ₽",
+            "typeface": "body3",
+            "text_color": "brand",
+            "max_lines": 1
+          },
+          "vertical_gravity": "bottom",
+          "info_and_icon": {
+            "info": {
+              "text": "+4,01 %",
+              "typeface": "body1",
+              "text_color": "brand",
+              "max_lines": 1
+            }
+          }
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "Московская биржа 05.02.2021, 23:50:52 (МСК)",
+          "typeface": "footnote1",
+          "text_color": "secondary",
+          "max_lines": 0
+        },
+        "paddings": {
+          "top": "10x",
+          "bottom": "8x"
+        }
+      }
+    ]
+  }
+}
