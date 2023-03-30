@@ -58,12 +58,39 @@
           "has_fade": false,
           "width_columns": 2,
           "aspect_ratio": "1:1"
-          
+
         }
       ]
     },
     "right": {
       "cards": [
+
+        {
+          "paddings": {
+            "top": "4x",
+            "bottom": "4x",
+            "left": "4x",
+            "right": "4x"
+          },
+          "cells": {
+            "bottom_cell":  {
+              "type": "text_cell_view",
+              "content": {
+                "text": "text",
+                "typeface": "title1",
+                "text_color": "default"
+              },
+              "paddings": {
+                "left": "8x",
+                "top": "6x",
+                "right": "8x"
+              }
+            }
+          },
+          "has_fade": false,
+          "width_columns": 2,
+          "aspect_ratio": "2:3"
+        }
       ]
     }
   }
