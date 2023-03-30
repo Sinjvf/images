@@ -44,14 +44,27 @@
                 "size": {
                   "type": "match_parent"
                 },
-                "url": "https://cdn.sberdevices.ru/AssistantB2B/icons/progress_bar_50.png",
-                "hash": "07caa4092180c284ce079b32a4b2e8d5"
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Uma_Thurman_2014_%28cropped%29.jpg",
+                "hash": "75ac02205acca8400ad2da94dab539b5"
               },
               "paddings": {
                 "top": "2x",
                 "left": "8x",
                 "right": "8x",
                 "bottom": "8x"
+              }
+            },
+            "bottom_cell":  {
+              "type": "text_cell_view",
+              "content": {
+                "text": "text",
+                "typeface": "title1",
+                "text_color": "default"
+              },
+              "paddings": {
+                "left": "8x",
+                "top": "6x",
+                "right": "8x"
               }
             }
           },
@@ -64,6 +77,7 @@
     },
     "right": {
       "cards": [
+
         {
           "paddings": {
             "top": "4x",
