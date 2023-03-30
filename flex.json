@@ -1,0 +1,53 @@
+{
+          "paddings": {
+            "top": "4x",
+            "bottom": "4x",
+            "left": "4x",
+            "right": "4x"
+          },
+          "cells": {
+            "middle_cell": {
+  "type": "flexible_image_cell_view",
+  "content": {
+      "size": {
+          "type": "match_parent"
+      },
+      "url": "https://cdn.sberdevices.ru/AssistantB2B/icons/progress_bar_50.png",
+      "hash": "07caa4092180c284ce079b32a4b2e8d5"
+  },
+  "paddings": {
+      "top": "2x",
+      "left": "8x",
+      "right": "8x",
+      "bottom": "8x"
+  }
+},
+              "log_id": "custom_log_id"
+            },
+            "bottom_cell": {
+              "type": "left_right_cell_view",
+              "left": {
+                "type": "simple_left_view",
+                "title": {
+                  "text": "Middle Cell",
+                  "typeface": "body1",
+                  "text_color": "default"
+                }
+              },
+              "right": {
+                "type": "disclosure_right_view"
+              },
+              "log_id": "custom_log_id"
+            }
+          },
+          "has_fade": false,
+          "width_columns": 2,
+          "aspect_ratio": "1:1",
+          "background_color": "#66AA2211",
+          "background_image": {
+            "url": "https://wallpapersmug.com/thumb/477870/gradient-blue-yellow-hd-4k.jpg",
+            "size": {
+              "type": "match_parent"
+            }
+          }
+        }
