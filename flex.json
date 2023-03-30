@@ -15,7 +15,7 @@
             "bottom_cell":  {
               "type": "text_cell_view",
               "content": {
-                "text": "text1",
+                "text": "text11",
                 "typeface": "title1",
                 "text_color": "default"
               },
@@ -78,7 +78,6 @@
     },
     "right": {
       "cards": [
-
         {
           "paddings": {
             "top": "4x",
