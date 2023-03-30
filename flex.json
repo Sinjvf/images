@@ -1,0 +1,109 @@
+{
+  "card": {
+    "type":"widget_two_columns",
+    "left": {
+      "cards": [
+        {
+          "paddings": {
+            "top": "4x",
+            "bottom": "4x",
+            "left": "4x",
+            "right": "4x"
+          },
+          "cells": {
+            "bottom_cell":  {
+              "type": "text_cell_view",
+              "content": {
+                "text": "text11",
+                "typeface": "title1",
+                "text_color": "default"
+              },
+              "paddings": {
+                "left": "8x",
+                "top": "6x",
+                "right": "8x"
+              }
+            }
+          },
+          "has_fade": false,
+          "width_columns": 2,
+          "aspect_ratio": "2:3"
+        },
+        {
+          "paddings": {
+            "top": "4x",
+            "bottom": "4x",
+            "left": "4x",
+            "right": "4x"
+          },
+          "cells": {
+            "middle_cell": {
+              "type": "flexible_image_cell_view",
+              "content": {
+                "size": {
+                  "type": "fixed",
+                  "width": 100,
+                  "height": 100
+                },
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Uma_Thurman_2014_%28cropped%29.jpg",
+                "hash": "75ac02205acca8400ad2da94dab539b5"
+              },
+              "paddings": {
+                "top": "2x",
+                "left": "8x",
+                "right": "8x",
+                "bottom": "8x"
+              }
+            },
+            "bottom_cell":  {
+              "type": "text_cell_view",
+              "content": {
+                "text": "text2",
+                "typeface": "title1",
+                "text_color": "default"
+              },
+              "paddings": {
+                "left": "8x",
+                "top": "6x",
+                "right": "8x"
+              }
+            }
+          },
+          "has_fade": false,
+          "width_columns": 2,
+          "aspect_ratio": "1:1"
+        }
+      ]
+    },
+    "right": {
+      "cards": [
+        {
+          "paddings": {
+            "top": "4x",
+            "bottom": "4x",
+            "left": "4x",
+            "right": "4x"
+          },
+          "cells": {
+            "bottom_cell":  {
+              "type": "text_cell_view",
+              "content": {
+                "text": "text3",
+                "typeface": "title1",
+                "text_color": "default"
+              },
+              "paddings": {
+                "left": "8x",
+                "top": "6x",
+                "right": "8x"
+              }
+            }
+          },
+          "has_fade": false,
+          "width_columns": 2,
+          "aspect_ratio": "2:3"
+        }
+      ]
+    }
+  }
+}
