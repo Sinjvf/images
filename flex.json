@@ -78,13 +78,17 @@
               "type": "flexible_image_cell_view",
               "content": {
                 "size": {
-                  "type": "fixed",
-                  "width": 100,
-                  "height": 100
+                  "type": "match_parent"
                 },
-                "url": "https://i.c97.org/ai/267576/aux-head-1509351989-20171030_kot_t.jpg"
+                "url": "https://cdn.sberdevices.ru/AssistantB2B/icons/progress_bar_50.png",
+                "hash": "07caa4092180c284ce079b32a4b2e8d5"
               },
-              "log_id": "custom_log_id"
+              "paddings": {
+                "top": "2x",
+                "left": "8x",
+                "right": "8x",
+                "bottom": "8x"
+              }
             },
             "bottom_cell": {
               "type": "left_right_cell_view",
