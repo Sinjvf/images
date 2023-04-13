@@ -3,7 +3,7 @@
     {
       "bubble": {
         "text": "text_1",
-        "markdown": true 
+        "markdown": true
       }
     },
     {
@@ -12,7 +12,6 @@
         "cells": [
           {
             "type": "left_right_cell_view",
-
             "left": {
               "type": "simple_left_view",
               "title": {
@@ -88,9 +87,9 @@
             "right": {
               "type": "flexible_image_left_right_cell_view",
               "content": {
-                    "type": "url",
-                    "url": "https://cdn.sberdevices.ru/catalog/images/img_q2_small.jpg",
-                    "hash": "969f1025ecaec1003c4db8bb29bd7e38"
+                "type": "url",
+                "url": "https://cdn.sberdevices.ru/catalog/images/img_q2_small.jpg",
+                "hash": "969f1025ecaec1003c4db8bb29bd7e38",
                 "size": {
                   "type": "fixed",
                   "width": 150,
