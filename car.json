@@ -26,7 +26,7 @@
               }
             },
             "right": {
-              "type": "flexible_image_left_right_cell_view",
+              "type": "flexible_image_left_right_cell_view", 
               "content": {
                 "url": "https://cdn.sberdevices.ru/catalog/images/img_q1_small.jpg",
                 "hash": "14a0370a6214548ed0368f511b90f22f",
@@ -41,7 +41,7 @@
               {
                 "type": "text",
                 "text": "text_2",
-                "should_send_to_backend": false
+                "should_send_to_backend": false 
               },
               {
                 "type": "server_action",
