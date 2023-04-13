@@ -33,8 +33,8 @@
                 "hash": "14a0370a6214548ed0368f511b90f22f",
                 "size": {
                   "type": "fixed",
-                  "width": 400,
-                  "height": 400
+                  "width": 150,
+                  "height": 150
                 }
               }
             },
@@ -80,27 +80,21 @@
                 "text_color": "default",
                 "max_lines": 0,
                 "margins": {
-                  "top": "9x",
                   "left": "8x",
-                  "right": "8x",
-                  "bottom": "9x"
+                  "right": "8x"
                 }
               }
             },
             "right": {
-              "type": "detail_right_view",
-              "info_and_icon": {
-                "icon": {
-                  "address": {
+              "type": "flexible_image_left_right_cell_view",
+              "content": {
                     "type": "url",
                     "url": "https://cdn.sberdevices.ru/catalog/images/img_q2_small.jpg",
                     "hash": "969f1025ecaec1003c4db8bb29bd7e38"
-                  },
-                  "size": {
-                    "width": "xlarge",
-                    "height": "xlarge"
-                  },
-                  "tint_color": "solid_white"
+                "size": {
+                  "type": "fixed",
+                  "width": 150,
+                  "height": 150
                 }
               }
             },
