@@ -1,145 +1,143 @@
-{"items": [
-  {
-    "bubble": {
-      "text": "text_1",
-      "markdown": true
-    }
-  },
-  {
-    "card": {
-      "type": "list_card",
-      "cells": [
-        {
-          "type": "left_right_cell_view",
-          "paddings": {
-            "top": "16x",
-            "bottom": "16x"
-          },
-          "left": {
-            "type": "simple_left_view",
-            "title": {
-              "text": "text_2",
-              "typeface": "title1",
-              "text_color": "default",
-              "max_lines": 0,
-              "margins": {
-                "top": "9x",
-                "left": "8x",
-                "right": "8x",
-                "bottom": "9x"
-              }
-            }
-          },
-          "right": {
-            "type": "detail_right_view",
-            "info_and_icon": {
-              "icon": {
-                "address": {
-                  "type": "url",
-                  "url": "https://cdn.sberdevices.ru/catalog/images/img_q1_small.jpg",
-                  "hash": "14a0370a6214548ed0368f511b90f22f"
-                },
-                "size": {
-                  "width": "xlarge",
-                  "height": "xlarge"
-                },
-                "tint_color": "solid_white"
-              }
-            }
-          },
-          "actions": [
-            {
-              "type": "text",
-              "text": "text_2",
-              "should_send_to_backend": false
-            },
-            {
-              "type": "server_action",
-              "message_name": "RUN_APP",
-              "server_action": {
-                "action_id": "run_app",
-                "app_info": {
-                  "systemName": "SmartApp_UB"
-                },
-                "parameters": {
-                  "scenario": "W0007.Anxiety_test",
-                  "node": "W0007.02",
-                  "category": "auto",
-                  "button_text": "text_2",
-                  "node_from": "W0007.01"
+{
+  "items": [
+    {
+      "bubble": {
+        "text": "text_1",
+        "markdown": true
+      }
+    },
+    {
+      "card": {
+        "type": "list_card",
+        "cells": [
+          {
+            "type": "left_right_cell_view",
+            
+            "left": {
+              "type": "simple_left_view",
+              "title": {
+                "text": "text_2",
+                "typeface": "title1",
+                "text_color": "default",
+                "max_lines": 0,
+                "margins": {
+                  "left": "8x",
+                  "right": "8x",
+                  "top": "16x",
+                  "bottom": "16x"
                 }
               }
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "card": {
-      "type": "list_card",
-      "cells": [
-        {
-          "type": "left_right_cell_view",
-          "left": {
-            "type": "simple_left_view",
-            "title": {
-              "text": "text_3",
-              "typeface": "title1",
-              "text_color": "default",
-              "max_lines": 0,
-              "margins": {
-                "top": "9x",
-                "left": "8x",
-                "right": "8x",
-                "bottom": "9x"
-              }
-            }
-          },
-          "right": {
-            "type": "detail_right_view",
-            "info_and_icon": {
-              "icon": {
-                "address": {
-                  "type": "url",
-                  "url": "https://cdn.sberdevices.ru/catalog/images/img_q2_small.jpg",
-                  "hash": "969f1025ecaec1003c4db8bb29bd7e38"
-                },
-                "size": {
-                  "width": "xlarge",
-                  "height": "xlarge"
-                },
-                "tint_color": "solid_white"
-              }
-            }
-          },
-          "actions": [
-            {
-              "type": "text",
-              "text": "text_3",
-              "should_send_to_backend": false
             },
-            {
-              "type": "server_action",
-              "message_name": "RUN_APP",
-              "server_action": {
-                "action_id": "run_app",
-                "app_info": {
-                  "systemName": "SmartApp_UB"
-                },
-                "parameters": {
-                  "scenario": "W0007.Anxiety_test",
-                  "node": "W0007.02",
-                  "category": "house",
-                  "button_text": "text_3",
-                  "node_from": "W0007.01"
+            "right": {
+              "type": "detail_right_view",
+              "info_and_icon": {
+                "icon": {
+                  "address": {
+                    "type": "url",
+                    "url": "https://cdn.sberdevices.ru/catalog/images/img_q1_small.jpg",
+                    "hash": "14a0370a6214548ed0368f511b90f22f"
+                  },
+                  "size": {
+                    "width": "xlarge",
+                    "height": "xlarge"
+                  },
+                  "tint_color": "solid_white"
                 }
               }
-            }
-          ]
-        }
-      ]
+            },
+            "actions": [
+              {
+                "type": "text",
+                "text": "text_2",
+                "should_send_to_backend": false
+              },
+              {
+                "type": "server_action",
+                "message_name": "RUN_APP",
+                "server_action": {
+                  "action_id": "run_app",
+                  "app_info": {
+                    "systemName": "SmartApp_UB"
+                  },
+                  "parameters": {
+                    "scenario": "W0007.Anxiety_test",
+                    "node": "W0007.02",
+                    "category": "auto",
+                    "button_text": "text_2",
+                    "node_from": "W0007.01"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "card": {
+        "type": "list_card",
+        "cells": [
+          {
+            "type": "left_right_cell_view",
+            "left": {
+              "type": "simple_left_view",
+              "title": {
+                "text": "text_3",
+                "typeface": "title1",
+                "text_color": "default",
+                "max_lines": 0,
+                "margins": {
+                  "top": "9x",
+                  "left": "8x",
+                  "right": "8x",
+                  "bottom": "9x"
+                }
+              }
+            },
+            "right": {
+              "type": "detail_right_view",
+              "info_and_icon": {
+                "icon": {
+                  "address": {
+                    "type": "url",
+                    "url": "https://cdn.sberdevices.ru/catalog/images/img_q2_small.jpg",
+                    "hash": "969f1025ecaec1003c4db8bb29bd7e38"
+                  },
+                  "size": {
+                    "width": "xlarge",
+                    "height": "xlarge"
+                  },
+                  "tint_color": "solid_white"
+                }
+              }
+            },
+            "actions": [
+              {
+                "type": "text",
+                "text": "text_3",
+                "should_send_to_backend": false
+              },
+              {
+                "type": "server_action",
+                "message_name": "RUN_APP",
+                "server_action": {
+                  "action_id": "run_app",
+                  "app_info": {
+                    "systemName": "SmartApp_UB"
+                  },
+                  "parameters": {
+                    "scenario": "W0007.Anxiety_test",
+                    "node": "W0007.02",
+                    "category": "house",
+                    "button_text": "text_3",
+                    "node_from": "W0007.01"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
     }
-  }
-]
+  ]
 }
