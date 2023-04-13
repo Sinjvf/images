@@ -85,10 +85,8 @@
                 "text_color": "default",
                 "max_lines": 0,
                 "margins": {
-                  "top": "9x",
                   "left": "8x",
-                  "right": "8x",
-                  "bottom": "9x"
+                  "right": "8x"
                 }
               }
             },
