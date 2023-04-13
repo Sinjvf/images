@@ -32,8 +32,8 @@
                 "hash": "14a0370a6214548ed0368f511b90f22f",
                 "size": {
                   "type": "fixed",
-                  "width": 150,
-                  "height": 150
+                  "width": 120,
+                  "height": 120
                 }
               }
             },
@@ -92,8 +92,8 @@
                 "hash": "969f1025ecaec1003c4db8bb29bd7e38",
                 "size": {
                   "type": "fixed",
-                  "width": 150,
-                  "height": 150
+                  "width": 120,
+                  "height": 120
                 }
               }
             },
