@@ -1,0 +1,57 @@
+{
+  "card": {
+    "type": "list_card",
+    "cells": [
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "text_2",
+          "typeface": "body1",
+          "text_color": "default",
+          "max_lines": 0
+        },
+        "paddings": {
+          "left": "8x",
+          "top": "6x",
+          "right": "8x",
+          "bottom": "4x"
+        }
+      },
+      {
+        "type": "button_cell_view",
+        "content": {
+          "plasma_button": {
+            "style": "secondary",
+            "text": "Рассчитать с выгодой",
+            "actions": [
+              {
+                "type": "deep_link",
+                "deep_link": "{% if payload.device.platformType|lower == 'ios' %}{{deep_link_ios}}{% else %}{{deep_link_android_prom}}{% endif %}"
+              },
+              {
+                "type": "server_action",
+                "message_name": "SERVER_ACTION",
+                "server_action": {
+                  "action_id": "deep_link_chosen",
+                  "parameters": {
+                    "scenario": "W0014.Accredited_companies"
+                  }
+                }
+              }
+            ],
+            "paddings": {
+              "top": "5x",
+              "bottom": "5x"
+            }
+          }
+        },
+        "paddings": {
+          "left": "8x",
+          "top": "6x",
+          "right": "8x",
+          "bottom": "8x"
+        }
+      }
+    ]
+  }
+}
