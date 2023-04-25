@@ -1,0 +1,57 @@
+{
+  "card": {
+    "cells": [
+      {
+        "left": {
+          "icon": {
+            "address": {
+              "identificator": "user_on_user",
+              "type": "local"
+            },
+            "size": {
+              "width": "large",
+              "height": "large"
+            },
+            "margins": {
+              "bottom": "0x",
+              "left": "0x",
+              "right": "8x",
+              "top": "0x"
+            },
+            "tint_color": "solid_brand"
+          },
+          "texts": {
+            "title": {
+              "text": "Padding по бокам 8, иконка 12 справа, текст 0",
+              "typeface": "body1",
+              "text_color": "default",
+              "max_lines": 0
+            },
+            "subtitle": {
+              "text": "Divider d4",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "max_lines": 0
+            }
+          },
+          "margins": {
+                "bottom": "0x",
+                "left": "4x",
+                "right": "0x",
+                "top": "0x"
+              },
+          "icon_vertical_gravity": "center",
+          "type": "simple_left_view"
+        },
+        "divider": {
+          "style": "default",
+          "size": "d4"
+        },
+        "type": "left_right_cell_view"
+      }
+    ],
+    "background_color": "card_background",
+    "can_be_disabled": false,
+    "type": "list_card"
+  }
+}
