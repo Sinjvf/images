@@ -50,6 +50,12 @@
         "type": "left_right_cell_view"
       }
     ],
+    "paddings": {
+      "bottom": "4x",
+      "left": "8x",
+      "right": "8x",
+      "top": "4x"
+    },
     "background_color": "card_background",
     "can_be_disabled": false,
     "type": "list_card"
