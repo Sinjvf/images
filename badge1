@@ -33,7 +33,7 @@
                     "text_color": "secondary",
                     "background": "gradient_sber"
                   }
-                }
+                },
                 "title": {
                   "text": "Top Left Cell",
                   "typeface": "body1",
@@ -143,24 +143,12 @@
             "right": "4x"
           },
           "cells": {
-            "middle_cell": {
-              "type": "flexible_image_cell_view",
-              "content": {
-                "size": {
-                  "type": "fixed",
-                  "width": 100,
-                  "height": 100
-                },
-                "url": "https://i.c97.org/ai/267576/aux-head-1509351989-20171030_kot_t.jpg"
-              },
-              "log_id": "custom_log_id"
-            },
             "bottom_cell": {
               "type": "left_right_cell_view",
               "left": {
                 "type": "simple_left_view",
                 "title": {
-                  "text": "Middle Cell",
+                  "text": "Top Right Cell",
                   "typeface": "body1",
                   "text_color": "default"
                 }
@@ -169,11 +157,38 @@
                 "type": "disclosure_right_view"
               },
               "log_id": "custom_log_id"
+            },
+            "top_cell": {
+              "type": "left_right_cell_view",
+              "left": {
+                "type": "simple_left_view",
+                "title": {
+                  "text": "Текст",
+                  "typeface": "body1",
+                  "text_color": "default"
+                }
+              },
+              "right": {
+                "type": "flexible_image_left_right_cell_view",
+                "content": {
+                  "size": {
+                    "type": "fixed",
+                    "width": 100,
+                    "height": 100
+                  },
+                  "url": "https://i.c97.org/ai/267576/aux-head-1509351989-20171030_kot_t.jpg",
+                  "gravity": {
+                    "vertical_gravity": "top",
+                    "horizontal_gravity": "right"
+                  }
+                }
+              },
+              "log_id": "custom_log_id"
             }
           },
           "has_fade": false,
           "width_columns": 2,
-          "aspect_ratio": "1:1",
+          "aspect_ratio": "2:3",
           "background_color": "#66AA2211",
           "background_image": {
             "url": "https://wallpapersmug.com/thumb/477870/gradient-blue-yellow-hd-4k.jpg",
