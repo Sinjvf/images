@@ -1,0 +1,326 @@
+{
+  "card": {
+    "type": "list_card",
+    "paddings": {
+      "top": "4x",
+      "bottom": "4x"
+    },
+    "cells": [
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "textPrimary",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "textPrimary"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "textSecondary",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "textSecondary"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "textTertiary",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "textTertiary"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "textParagraph",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "textParagraph"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "textAccent",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "textAccent"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "textGradient",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "textGradient"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "textPositive",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "textPositive"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "textWarning",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "textWarning"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "textNegative",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "textNegative"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onDarkTextPrimary",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onDarkTextPrimary"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onDarkTextSecondary",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onDarkTextSecondary"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onDarkTextTertiary",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onDarkTextTertiary"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onDarkTextParagraph",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onDarkTextParagraph"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onDarkTextAccent",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onDarkTextAccent"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onDarkTextGradient",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onDarkTextGradient"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onDarkTextPositive",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onDarkTextPositive"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onDarkTextWarning",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onDarkTextWarning"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onDarkTextNegative",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onDarkTextNegative"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onLightTextPrimary",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onLightTextPrimary"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onLightTextSecondary",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onLightTextSecondary"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onLightTextTertiary",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onLightTextTertiary"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onLightTextParagraph",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onLightTextParagraph"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onLightTextAccent",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onLightTextAccent"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onLightTextGradient",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onLightTextGradient"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onLightTextPositive",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onLightTextPositive"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onLightTextWarning",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onLightTextWarning"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onLightTextNegative",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onLightTextNegative"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "inverseTextPrimary",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "inverseTextPrimary"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "inverseTextSecondary",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "inverseTextSecondary"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "inverseTextTertiary",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "inverseTextTertiary"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "inverseTextParagraph",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "inverseTextParagraph"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "New",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "New"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onDarkNew",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onDarkNew"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "onLightNew",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "onLightNew"
+        }
+      },
+      {
+        "type": "text_cell_view",
+        "content": {
+          "text": "inverseNew",
+          "typeface": "title1",
+          "text_color": "default",
+          "plasma_text_color": "inverseNew"
+        }
+      }
+    ]
+  }
+}
