@@ -5,6 +5,7 @@
       "top": "4x",
       "bottom": "4x"
     },
+    "backgroundColor": "solid_tertiary",
     "cells": [
       {
         "type": "left_right_cell_view",
