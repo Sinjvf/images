@@ -35,12 +35,7 @@
           "icon_vertical_gravity": "center"
         },
         "right": {
-          "type": "right_cell_array_view",
-          "items": [
-            {
               "type": "disclosure_right_view"
-            }
-          ]
         },
         "paddings": {
           "left": "8x",
