@@ -1,0 +1,69 @@
+{
+  "card": {
+    "type": "list_card",
+    "cells": [
+      {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "texts": {
+            "title": {
+              "text": "Открыть брокерский счёт",
+              "typeface": "body1",
+              "text_color": "default",
+              "max_lines": 0
+            }
+          },
+          "icon": {
+            "address": {
+              "type": "url",
+              "url": "https://cdn.sberdevices.ru/VA/images/icons/ic_36_case_diagramv_green.png",
+              "hash": "089e9c69222b82793b9c99d8e82e7aca"
+            },
+            "rounded_corners": "circle",
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            },
+            "margins": {
+              "left": "0x",
+              "top": "0x",
+              "right": "6x",
+              "bottom": "0x"
+            }
+          },
+          "icon_vertical_gravity": "center"
+        },
+        "right": {
+          "type": "right_cell_array_view",
+          "items": [
+            {
+              "type": "disclosure_right_view"
+            }
+          ]
+        },
+        "paddings": {
+          "left": "8x",
+          "top": "8x",
+          "right": "8x",
+          "bottom": "8x"
+        },
+        "actions": [
+          {
+            "type": "server_action",
+            "message_name": "RUN_APP",
+            "server_action": {
+              "action_id": "run_app",
+              "app_info": {
+                "systemName": "brokerage_report"
+              },
+              "parameters": {
+                "choice": "new_contract"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
