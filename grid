@@ -1,0 +1,141 @@
+{
+      "card": {
+        "type": "grid_card",
+        "columns": 4,
+        "item_width": "xsmall",
+        "item_height": "resizable",
+        "items": [
+          {
+            "type": "greeting_grid_item",
+            "background_image": {
+              "url": "https://cdn.sberdevices.ru/temp/sberfriend/STORIS/coordinationcompliance_0.png"
+            },
+            "top_text": {
+              "text": " ",
+              "typeface": "caption",
+              "text_color": "default"
+            },
+            "bottom_text": {
+              "text": "Lorem pulsum oposum cherry",
+              "typeface": "caption",
+              "text_color": "default",
+              "max_lines": 1,
+              "margins": {
+                "top": "16x",
+                "left": "0x",
+                "right": "0x",
+                "bottom": "0x"
+              }
+            },
+            "paddings": {
+              "top": "6x",
+              "left": "4x",
+              "right": "2x",
+              "bottom": "4x"
+            },
+            "actions": [
+              {
+                "type": "text",
+                "text": "Lorem ipsum"
+              }
+            ]
+          },
+          {
+            "type": "greeting_grid_item",
+            "background_image": {
+              "url": "https://cdn.sberdevices.ru/temp/sberfriend/STORIS/coordinationcompliance_0.png"
+            },
+            "top_text": {
+              "text": " ",
+              "typeface": "caption",
+              "text_color": "default"
+            },
+            "bottom_text": {
+              "text": "Viktorina lorem",
+              "typeface": "caption",
+              "text_color": "default",
+              "max_lines": 1,
+              "margins": {
+                "top": "16x"
+              }
+            },
+            "paddings": {
+              "top": "6x",
+              "left": "4x",
+              "right": "2x",
+              "bottom": "4x"
+            },
+            "actions": [
+              {
+                "type": "text",
+                "text": "pusum ipsum"
+              }
+            ]
+          },
+          {
+            "type": "greeting_grid_item",
+            "background_image": {
+              "url": "https://cdn.sberdevices.ru/temp/sberfriend/STORIS/coordinationcompliance_0.png"
+            },
+            "top_text": {
+              "text": " ",
+              "typeface": "caption",
+              "text_color": "default"
+            },
+            "bottom_text": {
+              "text": "Lorem ipsum",
+              "typeface": "caption",
+              "text_color": "default",
+              "max_lines": 1,
+              "margins": {
+                "top": "16x"
+              }
+            },
+            "paddings": {
+              "top": "6x",
+              "left": "4x",
+              "right": "2x",
+              "bottom": "4x"
+            },
+            "actions": [
+              {
+                "type": "text",
+                "text": "Lorem ipsum"
+              }
+            ]
+          },
+          {
+            "type": "greeting_grid_item",
+            "background_image": {
+              "url": "https://cdn.sberdevices.ru/temp/sberfriend/STORIS/coordinationcompliance_0.png"
+            },
+            "top_text": {
+              "text": " ",
+              "typeface": "caption",
+              "text_color": "default"
+            },
+            "bottom_text": {
+              "text": "Lorem up sum pum",
+              "typeface": "caption",
+              "text_color": "default",
+              "max_lines": 1,
+              "margins": {
+                "top": "16x"
+              }
+            },
+            "paddings": {
+              "top": "6x",
+              "left": "4x",
+              "right": "2x",
+              "bottom": "4x"
+            },
+            "actions": [
+              {
+                "type": "text",
+                "text": "kuku"
+              }
+            ]
+          }
+        ]
+      }
+    }
