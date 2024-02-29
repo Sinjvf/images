@@ -42,7 +42,7 @@
             "content": {
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
-                "width": "small",
+                "width": "xsmall",
                 "aspect_ratio": 1
               }
             }
@@ -229,7 +229,7 @@
         ]
       }
     },
-   
+
     {
       "bubble": {
         "text": "width: resizable,  aspect_ratio: 1, scale_mode:top"
@@ -439,7 +439,7 @@
       }
     },
 
-    
+
     {
       "bubble": {
         "text": "width: resizable,  aspect_ratio: 1, scale_mode:center"
@@ -544,6 +544,6 @@
         ]
       }
     }
- 
+
   ]
 }
