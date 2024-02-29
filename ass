@@ -1,0 +1,279 @@
+{
+  "items": [
+    {
+      "bubble": {
+        "text": "width: resizable,  aspect_ratio: 1, scale_mode:scale_aspect_fill"
+      }
+    },
+    {
+      "card": {
+        "type": "gallery_card",
+        "items": [
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "url": "https://i.dailymail.co.uk/1s/2021/03/09/11/40244040-0-image-a-56_1615288350601.jpg",
+              "size": {
+                "width": "resizable",
+                "aspect_ratio": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "bubble": {
+        "text": "width: xsmall,  aspect_ratio: 1, scale_mode:scale_aspect_fill"
+      }
+    },
+    {
+      "card": {
+        "type": "gallery_card",
+        "items": [
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "url": "https://i.dailymail.co.uk/1s/2021/03/09/11/40244040-0-image-a-56_1615288350601.jpg",
+              "size": {
+                "width": "xsmall",
+                "aspect_ratio": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "bubble": {
+        "text": "width: small,  aspect_ratio: 1, scale_mode:scale_aspect_fill"
+      }
+    },
+    {
+      "card": {
+        "type": "gallery_card",
+        "items": [
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "url": "https://i.dailymail.co.uk/1s/2021/03/09/11/40244040-0-image-a-56_1615288350601.jpg",
+              "size": {
+                "width": "small",
+                "aspect_ratio": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "bubble": {
+        "text": "width: medium,  aspect_ratio: 1, scale_mode:scale_aspect_fill"
+      }
+    },
+    {
+      "card": {
+        "type": "gallery_card",
+        "items": [
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "url": "https://i.dailymail.co.uk/1s/2021/03/09/11/40244040-0-image-a-56_1615288350601.jpg",
+              "size": {
+                "width": "medium",
+                "aspect_ratio": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "bubble": {
+        "text": "width: large,  aspect_ratio: 1, scale_mode:scale_aspect_fill"
+      }
+    },
+    {
+      "card": {
+        "type": "gallery_card",
+        "items": [
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "url": "https://i.dailymail.co.uk/1s/2021/03/09/11/40244040-0-image-a-56_1615288350601.jpg",
+              "size": {
+                "width": "large",
+                "aspect_ratio": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    
+    {
+      "bubble": {
+        "text": "width: xsmall,  aspect_ratio: 1, scale_mode:scale_aspect_fit"
+      }
+    },
+    {
+      "card": {
+        "type": "gallery_card",
+        "items": [
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "scale_mode": "scale_aspect_fit",
+              "url": "https://i.dailymail.co.uk/1s/2021/03/09/11/40244040-0-image-a-56_1615288350601.jpg",
+              "size": {
+                "width": "xsmall",
+                "aspect_ratio": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "bubble": {
+        "text": "width: small,  aspect_ratio: 1, scale_mode:scale_aspect_fit"
+      }
+    },
+    {
+      "card": {
+        "type": "gallery_card",
+        "items": [
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "scale_mode": "scale_aspect_fit",
+              "url": "https://i.dailymail.co.uk/1s/2021/03/09/11/40244040-0-image-a-56_1615288350601.jpg",
+              "size": {
+                "width": "small",
+                "aspect_ratio": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "bubble": {
+        "text": "width: medium,  aspect_ratio: 1, scale_mode:scale_aspect_fit"
+      }
+    },
+    {
+      "card": {
+        "type": "gallery_card",
+        "items": [
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "scale_mode": "scale_aspect_fit",
+              "url": "https://i.dailymail.co.uk/1s/2021/03/09/11/40244040-0-image-a-56_1615288350601.jpg",
+              "size": {
+                "width": "medium",
+                "aspect_ratio": 1
+              }
+            }
+          }
+        ]
+      }
+    },
+
+
+
+    {
+      "bubble": {
+        "text": "width: medium,  aspect_ratio: 1.5, scale_mode:scale_aspect_fill"
+      }
+    },
+    {
+      "card": {
+        "type": "gallery_card",
+        "items": [
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "url": "https://i.dailymail.co.uk/1s/2021/03/09/11/40244040-0-image-a-56_1615288350601.jpg",
+              "size": {
+                "width": "medium",
+                "aspect_ratio": 1.5
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "bubble": {
+        "text": "width: medium,  aspect_ratio: 1.5, scale_mode:scale_aspect_fit"
+      }
+    },
+    {
+      "card": {
+        "type": "gallery_card",
+        "items": [
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "scale_mode": "scale_aspect_fit",
+              "url": "https://i.dailymail.co.uk/1s/2021/03/09/11/40244040-0-image-a-56_1615288350601.jpg",
+              "size": {
+                "width": "medium",
+                "aspect_ratio": 1.5
+              }
+            }
+          }
+        ]
+      }
+    },
+
+    {
+      "bubble": {
+        "text": "width: medium,  aspect_ratio: 0.66, scale_mode:scale_aspect_fill"
+      }
+    },
+    {
+      "card": {
+        "type": "gallery_card",
+        "items": [
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "url": "https://i.dailymail.co.uk/1s/2021/03/09/11/40244040-0-image-a-56_1615288350601.jpg",
+              "size": {
+                "width": "medium",
+                "aspect_ratio": 0.66
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "bubble": {
+        "text": "width: medium,  aspect_ratio: 0.66, scale_mode:scale_aspect_fit"
+      }
+    },
+    {
+      "card": {
+        "type": "gallery_card",
+        "items": [
+          {
+            "type": "media_gallery_item",
+            "image": {
+              "scale_mode": "scale_aspect_fit",
+              "url": "https://i.dailymail.co.uk/1s/2021/03/09/11/40244040-0-image-a-56_1615288350601.jpg",
+              "size": {
+                "width": "medium",
+                "aspect_ratio": 0.66
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
