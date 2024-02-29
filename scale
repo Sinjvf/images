@@ -2,7 +2,7 @@
   "items": [
     {
       "bubble": {
-        "text": "width: resizable,  aspect_ratio: 1.5, scaleModel:scale_aspect_fill"
+        "text": "width: resizable,  aspect_ratio: 1, scaleModel:scale_aspect_fill"
       }
     },
     {
@@ -18,7 +18,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "resizable",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -27,7 +27,7 @@
     },
     {
       "bubble": {
-        "text": "width: xsmall,  aspect_ratio: 1.5, scaleModel:scale_aspect_fill"
+        "text": "width: xsmall,  aspect_ratio: 1, scaleModel:scale_aspect_fill"
       }
     },
     {
@@ -43,7 +43,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "small",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -52,7 +52,7 @@
     },
     {
       "bubble": {
-        "text": "width: small,  aspect_ratio: 1.5, scaleModel:scale_aspect_fill"
+        "text": "width: small,  aspect_ratio: 1, scaleModel:scale_aspect_fill"
       }
     },
     {
@@ -68,7 +68,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "small",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -78,7 +78,7 @@
 
     {
       "bubble": {
-        "text": "width: medium,  aspect_ratio: 1.5, scaleModel:scale_aspect_fill"
+        "text": "width: medium,  aspect_ratio: 1, scaleModel:scale_aspect_fill"
       }
     },
     {
@@ -94,7 +94,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "medium",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -104,7 +104,7 @@
 
     {
       "bubble": {
-        "text": "width: large,  aspect_ratio: 1.5, scaleModel:scale_aspect_fill"
+        "text": "width: large,  aspect_ratio: 1, scaleModel:scale_aspect_fill"
       }
     },
     {
@@ -120,7 +120,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "large",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -133,7 +133,7 @@
 
     {
       "bubble": {
-        "text": "width: resizable,  aspect_ratio: 1.5, scaleModel:scale_aspect_fit"
+        "text": "width: resizable,  aspect_ratio: 1, scaleModel:scale_aspect_fit"
       }
     },
     {
@@ -150,7 +150,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "resizable",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -159,7 +159,7 @@
     },
     {
       "bubble": {
-        "text": "width: xsmall,  aspect_ratio: 1.5, scaleModel:scale_aspect_fit"
+        "text": "width: xsmall,  aspect_ratio: 1, scaleModel:scale_aspect_fit"
       }
     },
     {
@@ -176,7 +176,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "small",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -185,7 +185,7 @@
     },
     {
       "bubble": {
-        "text": "width: small,  aspect_ratio: 1.5, scaleModel:scale_aspect_fit"
+        "text": "width: small,  aspect_ratio: 1, scaleModel:scale_aspect_fit"
       }
     },
     {
@@ -202,7 +202,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "small",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -212,7 +212,7 @@
 
     {
       "bubble": {
-        "text": "width: medium,  aspect_ratio: 1.5, scaleModel:scale_aspect_fit"
+        "text": "width: medium,  aspect_ratio: 1, scaleModel:scale_aspect_fit"
       }
     },
     {
@@ -229,7 +229,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "medium",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -239,7 +239,7 @@
 
     {
       "bubble": {
-        "text": "width: large,  aspect_ratio: 1.5, scaleModel:scale_aspect_fit"
+        "text": "width: large,  aspect_ratio: 1, scaleModel:scale_aspect_fit"
       }
     },
     {
@@ -256,7 +256,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "large",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -268,7 +268,7 @@
 
     {
       "bubble": {
-        "text": "width: resizable,  aspect_ratio: 1.5, scaleModel:top"
+        "text": "width: resizable,  aspect_ratio: 1, scaleModel:top"
       }
     },
     {
@@ -285,7 +285,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "resizable",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -294,7 +294,7 @@
     },
     {
       "bubble": {
-        "text": "width: xsmall,  aspect_ratio: 1.5, scaleModel:top"
+        "text": "width: xsmall,  aspect_ratio: 1, scaleModel:top"
       }
     },
     {
@@ -311,7 +311,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "small",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -320,7 +320,7 @@
     },
     {
       "bubble": {
-        "text": "width: small,  aspect_ratio: 1.5, scaleModel:top"
+        "text": "width: small,  aspect_ratio: 1, scaleModel:top"
       }
     },
     {
@@ -337,7 +337,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "small",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -347,7 +347,7 @@
 
     {
       "bubble": {
-        "text": "width: medium,  aspect_ratio: 1.5, scaleModel:top"
+        "text": "width: medium,  aspect_ratio: 1, scaleModel:top"
       }
     },
     {
@@ -364,7 +364,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "medium",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -374,7 +374,7 @@
 
     {
       "bubble": {
-        "text": "width: large,  aspect_ratio: 1.5, scaleModel:top"
+        "text": "width: large,  aspect_ratio: 1, scaleModel:top"
       }
     },
     {
@@ -391,7 +391,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "large",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -402,10 +402,10 @@
 
 
 
-    ,
+  ,
     {
       "bubble": {
-        "text": "width: resizable,  aspect_ratio: 1.5, scaleModel:bottom"
+        "text": "width: resizable,  aspect_ratio: 1, scaleModel:bottom"
       }
     },
     {
@@ -422,7 +422,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "resizable",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -431,7 +431,7 @@
     },
     {
       "bubble": {
-        "text": "width: xsmall,  aspect_ratio: 1.5, scaleModel:bottom"
+        "text": "width: xsmall,  aspect_ratio: 1, scaleModel:bottom"
       }
     },
     {
@@ -448,7 +448,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "small",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -457,7 +457,7 @@
     },
     {
       "bubble": {
-        "text": "width: small,  aspect_ratio: 1.5, scaleModel:bottom"
+        "text": "width: small,  aspect_ratio: 1, scaleModel:bottom"
       }
     },
     {
@@ -474,7 +474,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "small",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -484,7 +484,7 @@
 
     {
       "bubble": {
-        "text": "width: medium,  aspect_ratio: 1.5, scaleModel:bottom"
+        "text": "width: medium,  aspect_ratio: 1, scaleModel:bottom"
       }
     },
     {
@@ -501,7 +501,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "medium",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -511,7 +511,7 @@
 
     {
       "bubble": {
-        "text": "width: large,  aspect_ratio: 1.5, scaleModel:bottom"
+        "text": "width: large,  aspect_ratio: 1, scaleModel:bottom"
       }
     },
     {
@@ -528,7 +528,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "large",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -540,10 +540,10 @@
 
 
 
-    ,
+  ,
     {
       "bubble": {
-        "text": "width: resizable,  aspect_ratio: 1.5, scaleModel:center"
+        "text": "width: resizable,  aspect_ratio: 1, scaleModel:center"
       }
     },
     {
@@ -560,7 +560,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "resizable",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -569,7 +569,7 @@
     },
     {
       "bubble": {
-        "text": "width: xsmall,  aspect_ratio: 1.5, scaleModel:center"
+        "text": "width: xsmall,  aspect_ratio: 1, scaleModel:center"
       }
     },
     {
@@ -586,7 +586,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "small",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -595,7 +595,7 @@
     },
     {
       "bubble": {
-        "text": "width: small,  aspect_ratio: 1.5, scaleModel:center"
+        "text": "width: small,  aspect_ratio: 1, scaleModel:center"
       }
     },
     {
@@ -612,7 +612,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "small",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -622,7 +622,7 @@
 
     {
       "bubble": {
-        "text": "width: medium,  aspect_ratio: 1.5, scaleModel:center"
+        "text": "width: medium,  aspect_ratio: 1, scaleModel:center"
       }
     },
     {
@@ -639,7 +639,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "medium",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
@@ -649,7 +649,7 @@
 
     {
       "bubble": {
-        "text": "width: large,  aspect_ratio: 1.5, scaleModel:center"
+        "text": "width: large,  aspect_ratio: 1, scaleModel:center"
       }
     },
     {
@@ -666,7 +666,7 @@
               "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Northern_Spotted_Owl.USFWS.jpg/808px-Northern_Spotted_Owl.USFWS.jpg",
               "size": {
                 "width": "large",
-                "aspect_ratio": 1.5
+                "aspect_ratio": 1
               }
             }
           }
