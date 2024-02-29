@@ -8,10 +8,7 @@
     {
       "card": {
         "type": "gallery_card",
-        "paddings": {
-          "bottom": "0x"
-        },
-        "cells": [
+        "items": [
           {
             "type": "media_gallery_item",
             "image": {
@@ -33,10 +30,7 @@
     {
       "card": {
         "type": "gallery_card",
-        "paddings": {
-          "bottom": "0x"
-        },
-        "cells": [
+        "items": [
           {
             "type": "media_gallery_item",
             "image": {
