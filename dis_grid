@@ -1,7 +1,7 @@
 {
   "card": {
     "type": "grid_card",
-    "canBeDisabled": true,
+    "can_be_disabled": true,
     "items": [
       {
         "type": "greeting_grid_item",
