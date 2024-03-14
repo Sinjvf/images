@@ -1,0 +1,35 @@
+{
+  "card": {
+    "type": "p2p_transfer_confirmation",
+    "title": "Перевод клиенту Сбербанка",
+    "subtitle": "Илья Богданович",
+    "canBeDisabled": true,
+    "contact_info": {
+      "title": "Получатель",
+      "name": "Илья Юрьевич Б.",
+      "phone": "+7 (912) 345-67-89",
+      "bank_account": "•••• 9999",
+      "avatar_url": "https://sberbank.ru/contacts/1000.jpg"
+    },
+    "bank_account_info": {
+      "title": "Счет списания",
+      "name": "MasterCard",
+      "number": "•••• 1234",
+      "balance": "100 001,23 \u20BD",
+      "avatar_url": "https://sberbank.ru/cards/gold.jpg",
+      "icon_local": "card_mc_gold"
+    },
+    "transfer_amount_info": {
+      "avatar_url": "https://sberbank.ru/transfer.jpg",
+      "title": "Сумма перевода",
+      "value": "1000 \u20BD",
+      "transfer_fee": "Комиссия 10 \u20BD"
+    },
+    "confirmation_button": {
+      "text": "Перевести 1010 \u20BD",
+      "action": {
+        "text": "Подтверждаю"
+      }
+    }
+  }
+}
