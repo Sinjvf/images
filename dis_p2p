@@ -3,7 +3,7 @@
     "type": "p2p_transfer_confirmation",
     "title": "Перевод клиенту Сбербанка",
     "subtitle": "Илья Богданович",
-    "canBeDisabled": true,
+    "can_beD_disabled": true,
     "contact_info": {
       "title": "Получатель",
       "name": "Илья Юрьевич Б.",
