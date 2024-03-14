@@ -1,0 +1,38 @@
+{
+  "card": {
+    "type": "grid_card",
+    "canBeDisabled": true,
+    "items": [
+      {
+        "type": "greeting_grid_item",
+        "top_text": {
+          "type": "text_cell_view",
+          "text": "СОБЕСЕДНИК",
+          "typeface": "caption",
+          "text_color": "default"
+        },
+        "bottom_text": {
+          "type": "text_cell_view",
+          "text": "Какая высота Эвереста?",
+          "typeface": "body3",
+          "text_color": "default",
+          "max_lines": 3,
+          "margins": {
+            "top": "4x"
+          }
+        },
+        "paddings": {
+          "top": "6x",
+          "left": "6x",
+          "right": "6x",
+          "bottom": "6x"
+        },
+        "actions": [
+          {
+            "text": "Какая высота Эвереста?"
+          }
+        ]
+      }
+    ]
+  }
+}
