@@ -1,0 +1,300 @@
+{
+  "items": [
+    {
+      "card": {
+        "type": "list_card",
+        "cells": [
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "display_l_bold",
+              "typeface": "headline1",
+              "plasma_typeface": "display_l_bold",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "display_l_normal",
+              "typeface": "headline1",
+              "plasma_typeface": "display_l_normal",
+              "text_color": "default"
+            }
+          },
+
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "display_m_bold",
+              "typeface": "headline1",
+              "plasma_typeface": "display_m_bold",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "display_m_normal",
+              "typeface": "headline1",
+              "plasma_typeface": "display_m_normal",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "display_s_bold",
+              "typeface": "headline1",
+              "plasma_typeface": "display_s_bold",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "display_s_normal",
+              "typeface": "headline1",
+              "plasma_typeface": "display_s_normal",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "header_h1_bold",
+              "typeface": "headline1",
+              "plasma_typeface": "header_h1_bold",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "header_h1_normal",
+              "typeface": "headline1",
+              "plasma_typeface": "header_h1_normal",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "header_h2_bold",
+              "typeface": "headline1",
+              "plasma_typeface": "header_h2_bold",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "header_h2_normal",
+              "typeface": "headline1",
+              "plasma_typeface": "header_h2_normal",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "header_h3_bold",
+              "typeface": "headline1",
+              "plasma_typeface": "header_h3_bold",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "header_h3_normal",
+              "typeface": "headline1",
+              "plasma_typeface": "header_h3_normal",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "header_h4_bold",
+              "typeface": "headline1",
+              "plasma_typeface": "header_h4_bold",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "header_h4_normal",
+              "typeface": "headline1",
+              "plasma_typeface": "header_h4_normal",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "header_h5_bold",
+              "typeface": "headline1",
+              "plasma_typeface": "header_h5_bold",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "header_h5_normal",
+              "typeface": "headline1",
+              "plasma_typeface": "header_h5_normal",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "body_l_bold",
+              "typeface": "headline1",
+              "plasma_typeface": "body_l_bold",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "body_l_normal",
+              "typeface": "headline1",
+              "plasma_typeface": "body_l_normal",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "body_l_bold",
+              "typeface": "headline1",
+              "plasma_typeface": "body_l_bold",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "body_l_normal",
+              "typeface": "headline1",
+              "plasma_typeface": "body_l_normal",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "body_m_bold",
+              "typeface": "headline1",
+              "plasma_typeface": "body_m_bold",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "body_m_normal",
+              "typeface": "headline1",
+              "plasma_typeface": "body_m_normal",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "body_xs_bold",
+              "typeface": "headline1",
+              "plasma_typeface": "body_xs_bold",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "body_xs_normal",
+              "typeface": "headline1",
+              "plasma_typeface": "body_xs_normal",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "body_xxs_bold",
+              "typeface": "headline1",
+              "plasma_typeface": "body_xxs_bold",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "body_xxs_normal",
+              "typeface": "headline1",
+              "plasma_typeface": "body_xxs_normal",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "text_l_bold",
+              "typeface": "headline1",
+              "plasma_typeface": "text_l_bold",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "text_l_normal",
+              "typeface": "headline1",
+              "plasma_typeface": "text_l_normal",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "text_m_bold",
+              "typeface": "headline1",
+              "plasma_typeface": "text_m_bold",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "text_m_normal",
+              "typeface": "headline1",
+              "plasma_typeface": "text_m_normal",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "text_xs_bold",
+              "typeface": "headline1",
+              "plasma_typeface": "text_xs_bold",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "text_xs_normal",
+              "typeface": "headline1",
+              "plasma_typeface": "text_xs_normal",
+              "text_color": "default"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
