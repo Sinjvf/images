@@ -1,0 +1,180 @@
+{
+  "items": [
+    {
+      "card": {
+        "type": "list_card",
+        "cells": [
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "headline1",
+              "typeface": "headline1",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "headline2",
+              "typeface": "headline2",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "headline3",
+              "typeface": "headline3",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "headline4",
+              "typeface": "headline4",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "headline5",
+              "typeface": "headline5",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "headline6",
+              "typeface": "headline6",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "body1",
+              "typeface": "body1",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "body2",
+              "typeface": "body2",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "body3",
+              "typeface": "body3",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "body4",
+              "typeface": "body4",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "body_ai",
+              "typeface": "body_ai",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "text1",
+              "typeface": "text1",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "paragraphText1",
+              "typeface": "paragraphText1",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "paragraphText2",
+              "typeface": "paragraphText2",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "footnote1",
+              "typeface": "footnote1",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "footnote2",
+              "typeface": "footnote2",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "footnote3",
+              "typeface": "footnote3",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "button1",
+              "typeface": "button1",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "button2",
+              "typeface": "button2",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "caption",
+              "typeface": "caption",
+              "text_color": "default"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "underline",
+              "typeface": "underline",
+              "text_color": "default"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
+  
