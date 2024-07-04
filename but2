@@ -18,7 +18,7 @@
                 "top": "2x"
               },
               "content": {
-                "text": "Default - secondary, rounded",
+                "text": "купить",
                 "actions": [
                   {
                     "type": "deep_link",
@@ -30,9 +30,8 @@
             "right": {
               "type": "plasma_button_cell_view",
               "content": {
-                "text": "Style - checked, circle",
-                "rounded_corners": "circle",
-                "style": "checked",
+                "text": "продать",
+                "style": "primary",
                 "actions": [
                   {
                     "type": "deep_link",
