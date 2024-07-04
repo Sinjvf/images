@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "card": {
+        "type": "list_card",
+        "paddings": {
+          "left": "8x",
+          "top": "6x",
+          "right": "8x",
+          "bottom": "6x"
+        },
+        "cells": [
+          {
+            "type": "left_right_cell_view",
+            "left": {
+              "type": "plasma_button_cell_view",
+              "margins": {
+                "top": "2x"
+              },
+              "content": {
+                "text": "Default - secondary, rounded",
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+                  }
+                ]
+              }
+            },
+            "right": {
+              "type": "plasma_button_cell_view",
+              "content": {
+                "text": "Style - checked, circle",
+                "rounded_corners": "circle",
+                "style": "checked",
+                "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      }
+    }
+    ]
+  }
+
