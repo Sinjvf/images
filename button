@@ -11,14 +11,26 @@
         },
         "content": {
           "text": "Купить",
-          "style": "secondary"
+          "style": "secondary",
+ "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+                  }
+                ]
         }
       },
       "right": {
         "type": "plasma_button_cell_view",
         "content": {
           "text": "продать",
-          "style": "primary"
+          "style": "primary",
+ "actions": [
+                  {
+                    "type": "deep_link",
+                    "deep_link": "https://ru.wikipedia.org/wiki/Ривз,_Киану"
+                  }
+                ]
         }
       }
     }
