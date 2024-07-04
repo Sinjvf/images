@@ -31,7 +31,6 @@
               "type": "plasma_button_cell_view",
               "content": {
                 "text": "продать",
-                "style": "primary",
                 "actions": [
                   {
                     "type": "deep_link",
