@@ -16,6 +16,8 @@
         "id": 1602
       }
     ],
+
+
     "title": "Недавние получатели",
     "type": "p2p_contact_selection",
     "can_be_disabled": true
