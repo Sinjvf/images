@@ -1,0 +1,4338 @@
+{
+  "card": {
+    "type": "list_card",
+    "paddings": {
+      "top": "4x",
+      "bottom": "4x"
+    },
+    "background_color": "solid_tertiary",
+    "cells": [
+      {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "add_contactless_payment"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "apple_wallet"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "arrow_right_chevron_rectangle"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "arrow_right_trace_line"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "arrows_forward_back"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "atm_banknote"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "bag"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "ballot_paper"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "bar_graph"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "basket"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "beach_umbrella"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "bell"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "bell_crossed"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "between_accounts"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "boarding_pass"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "bolt"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "box"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "building"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "calculator"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "camera"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "candy"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "capsule"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "car"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_amex"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_amex_black"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_amex_gold"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_blocked"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_chevron_left"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_ghost"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_maestro_null"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_mc"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_mc_black"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_mc_gold"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_mc_null"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_mir"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_mir_black"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_mir_gold"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_mir_null"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_momentum"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_on_card"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_plus"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_pro100_null"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_uek"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_viewfinder"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_visa_gold"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_visa_black"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_visa"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_visa_infinite_sber"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_visa_infinite"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_visa_digital"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "card_visa_null"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "cards_carousel"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "case"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "case_diagram"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "chess_piece"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "circle_cross"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "circle_plus"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "clock"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "coat_of_arms"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "coin"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "coin_heart"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "color_spasibo"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "color_total"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "counterclock_wise"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "crown"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "digital_banknotes"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "document"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "document_checkmark"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "document_magnifying_glass"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "document_on_document"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "drop"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "ellipsis"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "eye"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "eye_crossed"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "face"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "face_id"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "falling_coin"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "file_pdf"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "fingerprint"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "flag"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "flame"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "flasher"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "funnel"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "gamepad"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "gear"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "gift"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "globe"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "hammer"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "handset"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "heart"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "heart_hand"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "house"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "house_handset"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "house_percent"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "info"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "key"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "list"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "lock_closed"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "lock_opened"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "magnit"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "mail"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "mail_eye"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "mail_waves"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "man_badge"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "man_wheelchair"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "map"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "mask"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "mindmap"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "mobile"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "mobile_plus"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "mobile_plus_alt"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "mobile_waves"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "necklace"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "note"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "notebook_waves"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "open_book"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "other"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "paper_tray"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "parking"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "passport"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "paw"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "pencil_line"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "percent"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "pfm"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "photo"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "pie_chart"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "placeholder"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "plane"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "play"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "postcard_heart"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "pram"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "qr_code"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "receipt"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "rectangle_on_dashed_rectangle"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "rectangle_speech_bubble"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "rectangle_speech_bubble_on_speech_bubble"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "rectangle_watches"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "round_speech_bubble_question"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "round_watches"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "ruble_dollar"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "ruble_plus"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "safe"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "safe_diagram"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "sber"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "security_camera"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "shield"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "shield_check"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "shield_crossed"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "shield_lines"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "shield_lines_circles"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "spasibo"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "speaker_waves"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "square_on_square"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "star_light"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "student_hat"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "telephone"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "thermometer"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "total"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "trash"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "tv_set"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "umbrella"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "user"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "user_cross"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "user_on_user"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "vibration"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "wallet"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "watering_can"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "waves"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "waves_cross"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "whistle"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "wrench"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      },     {
+        "type": "left_right_cell_view",
+        "left": {
+          "type": "simple_left_view",
+          "icon": {
+            "tint_color": "solid_brand",
+            "plasma_tint_color": "textPrimary",
+            "address": {
+              "type": "local",
+              "identificator": "yule"
+            },
+            "size": {
+              "width": "medium",
+              "height": "medium"
+            }
+          },
+          "texts": {
+            "title": {
+              "text": "id",
+              "typeface": "footnote1",
+              "text_color": "secondary",
+              "plasma_text_color": "textPrimary"
+            }
+          }
+        }
+      }
+    ]
+  }
+}
