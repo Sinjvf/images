@@ -1,0 +1,230 @@
+
+{ "card": {
+          "type": "list_card",
+          "can_be_disabled": true,
+          "paddings": {
+            "left": "8x",
+            "right": "8x",
+            "top": "6x",
+            "bottom": "6x"
+          },
+          "cells": [
+            {
+              "type": "left_right_cell_view",
+              "paddings": {
+                "top": "3x",
+                "bottom": "3x"
+              },
+              "left": {
+                "type": "simple_left_view",
+                "texts": {
+                  "title": {
+                    "text": "Ваши пенсионные накопления",
+                    "typeface": "headline3",
+                    "text_color": "default",
+                    "max_lines": 0
+                  },
+                  "subtitle": {
+                    "text": "Без учёта пенсии по гособеспечению",
+                    "typeface": "footnote1",
+                    "text_color": "secondary",
+                    "max_lines": 0,
+                    "margins": {
+                      "top": "1x",
+                      "bottom": "0x"
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "type": "left_right_cell_view",
+              "divider": {
+                "style": "default",
+                "size": "d1"
+              },
+              "paddings": {
+                "top": "5x",
+                "bottom": "4x"
+              },
+              "left": {
+                "type": "simple_left_view",
+                "icon_vertical_gravity": "center",
+                "texts": {
+                  "title": {
+                    "text": "Страховая",
+                    "typeface": "body1",
+                    "text_color": "default",
+                    "max_lines": 0
+                  }
+                }
+              },
+              "right": {
+                "type": "right_cell_array_view",
+                "orientation": "horizontal",
+                "items": [
+                  {
+                    "type": "detail_right_view",
+                    "detail": {
+                      "__PERSONAL_TEXT__": true,
+                      "text": "12 897,49 ₽",
+                      "typeface": "body1",
+                      "text_color": "default",
+                      "max_lines": 0
+                    },
+                    "info_and_icon": {
+                      "info": {
+                        "text": "В месяц",
+                        "text_color": "secondary",
+                        "typeface": "footnote1",
+                        "max_lines": 0
+                      }
+                    }
+                  },
+                  {
+                    "type": "disclosure_right_view"
+                  }
+                ]
+              },
+              "actions": [
+                {
+                  "type": "text",
+                  "text": "Страховая"
+                }
+              ]
+            },
+            {
+              "type": "left_right_cell_view",
+              "divider": {
+                "style": "default",
+                "size": "d1"
+              },
+              "paddings": {
+                "top": "5x",
+                "bottom": "4x"
+              },
+              "left": {
+                "type": "simple_left_view",
+                "icon_vertical_gravity": "center",
+                "texts": {
+                  "title": {
+                    "text": "Накопительная",
+                    "typeface": "body1",
+                    "text_color": "default",
+                    "max_lines": 0
+                  }
+                }
+              },
+              "right": {
+                "type": "right_cell_array_view",
+                "orientation": "horizontal",
+                "items": [
+                  {
+                    "type": "detail_right_view",
+                    "detail": {
+                      "__PERSONAL_TEXT__": true,
+                      "text": "1 053,17 ₽",
+                      "typeface": "body1",
+                      "text_color": "default",
+                      "max_lines": 0
+                    },
+                    "info_and_icon": {
+                      "info": {
+                        "text": "В месяц",
+                        "text_color": "secondary",
+                        "typeface": "footnote1",
+                        "max_lines": 0
+                      }
+                    }
+                  },
+                  {
+                    "type": "disclosure_right_view"
+                  }
+                ]
+              },
+              "actions": [
+                {
+                  "type": "text",
+                  "text": "Накопительная"
+                }
+              ]
+            },
+            {
+              "type": "left_right_cell_view",
+              "paddings": {
+                "top": "5x",
+                "bottom": "4x"
+              },
+              "left": {
+                "type": "simple_left_view",
+                "icon_vertical_gravity": "center",
+                "texts": {
+                  "title": {
+                    "text": "Долгосрочные\nсбережения",
+                    "typeface": "body1",
+                    "text_color": "default",
+                    "max_lines": 0
+                  }
+                }
+              },
+              "right": {
+                "type": "right_cell_array_view",
+                "orientation": "horizontal",
+                "items": [
+                  {
+                    "type": "detail_right_view",
+                    "detail": {
+                      "__PERSONAL_TEXT__": true,
+                      "text": "315 000 ₽",
+                      "typeface": "body1",
+                      "text_color": "default",
+                      "max_lines": 0
+                    },
+                    "info_and_icon": {
+                      "info": {
+                        "text": "0 ₽",
+                        "text_color": "secondary",
+                        "typeface": "footnote1",
+                        "max_lines": 0
+                      }
+                    }
+                  },
+                  {
+                    "type": "disclosure_right_view"
+                  }
+                ]
+              },
+              "actions": [
+                {
+                  "type": "text",
+                  "text": "Долгосрочные\nсбережения"
+                }
+              ]
+            },
+            {
+              "type": "button_cell_view",
+              "content": {
+                "margins": {
+                  "top": "8x",
+                  "bottom": "8x"
+                },
+                "plasma_button": {
+                  "text": "Перейти в раздел «Пенсии»",
+                  "style": "secondary",
+                  "actions": [
+                    {
+                      "type": "deep_link",
+                      "deep_link": "android-app://ru.sberbankmobile_alpha/pensions/products"
+                    }
+                  ]
+                }
+              },
+              "paddings": {
+                "top": "4x",
+                "bottom": "4x"
+              }
+            }
+          ]
+        }
+      }
+    
