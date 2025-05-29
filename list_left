@@ -1,0 +1,304 @@
+{
+  "items": [
+    {
+      "card": {
+        "type": "list_card",
+        "paddings": {
+          "bottom": "2x"
+        },
+        "cells": [
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "Сейчас платите 798 ₽ в месяц",
+              "typeface": "title1",
+              "text_color": "default"
+            },
+            "paddings": {
+              "left": "8x",
+              "top": "6x",
+              "right": "8x"
+            }
+          },
+          {
+            "type": "text_cell_view",
+            "content": {
+              "text": "Всего у вас 2 активные подписки. Можете заблокировать или разблокировать списания по ним. ",
+              "typeface": "body1",
+              "text_color": "default",
+              "max_lines": 0
+            },
+            "paddings": {
+              "left": "8x",
+              "top": "4x",
+              "right": "8x"
+            }
+          },
+          {
+            "type": "left_right_cell_view",
+            "actions": [
+              {
+                "type": "text",
+                "text": "Отменить подписку ИВИ"
+              }
+            ],
+            "paddings": {
+              "top": "4x",
+              "left": "8x",
+              "bottom": "4x"
+            },
+            "divider": {
+              "size": "d5",
+              "style": "default"
+            },
+            "left": {
+              "type": "image_texts_left_cell_view",
+              "image": {
+                "url": "https://avatars.mds.yandex.net/get-marketcms/475644/img-0ec60a9f-2803-4ab0-8408-ed0dd2cbec79.png/optimize",
+                "height": {
+                  "type": "fixed",
+                  "value": 40
+                },
+                "scale_mode": "scale_aspect_fit",
+                "width": {
+                  "type": "fixed",
+                  "value": 40
+                },
+                "margins": {
+                  "top": "2x",
+                  "right": "6x"
+                }
+              },
+              "texts": {
+                "title": {
+                  "text": "ИВИ >",
+              "typeface": "body1",
+                  "plasma_typeface": "body2",
+                  "plasma_text_color": "textPrimary"
+                },
+                "subtitle": {
+                  "text": "СберКарта ** 9112 и еще 2",
+                  "plasma_typeface": "body4",
+              "typeface": "body1",
+                  "plasma_text_color": "textSecondary"
+                },
+                "caption": {
+                  "text": "Спишется через 3 дня",
+                  "plasma_typeface": "body4",
+              "typeface": "body1",
+                  "plasma_text_color": "textSecondary"
+                },
+                "margins": {
+                  "left": "6x",
+                  "right": "6x"
+                }
+              },
+              "image_vertical_gravity": "top"
+            },
+            "right": {
+              "type": "detail_right_view",
+              "margins": {
+                "right": "6x"
+              },
+              "vertical_gravity": "top",
+              "info_and_icon": {
+                "info": {
+                  "text": "399 ₽",
+                  "typeface": "body2",
+                  "text_color": "default"
+                }
+              }
+            }
+          },
+          {
+            "type": "left_right_cell_view",
+            "paddings": {
+              "top": "4x",
+              "left": "8x",
+              "bottom": "4x"
+            },
+            "actions": [
+              {
+                "type": "text",
+                "text": "Отменить подписку Яндекс Плюс"
+              }
+            ],
+            "divider": {
+              "size": "d5",
+              "style": "default"
+            },
+            "left": {
+              "type": "image_texts_left_cell_view",
+              "image": {
+                "url": "https://alisa-technology.com/wp-content/uploads/2024/03/yandeksplyus_multi_12_mesyacev-300x300.jpg",
+                "height": {
+                  "type": "fixed",
+                  "value": 40
+                },
+                "scale_mode": "scale_aspect_fit",
+                "width": {
+                  "type": "fixed",
+                  "value": 40
+                },
+                "margins": {
+                  "top": "2x",
+                  "right": "6x"
+                }
+              },
+              "texts": {
+                "title": {
+                  "text": "Яндекс Плюс >",
+              "typeface": "body1",
+                  "plasma_typeface": "body2",
+                  "plasma_text_color": "textPrimary"
+                },
+                "subtitle": {
+                  "text": "СберКарта ** 4721",
+              "typeface": "body1",
+                  "plasma_typeface": "body4",
+                  "plasma_text_color": "textSecondary"
+                },
+                "caption": {
+                  "text": "Спишется 20 марта",
+              "typeface": "body1",
+                  "plasma_typeface": "body4",
+                  "plasma_text_color": "textSecondary"
+                },
+                "margins": {
+                  "left": "6x",
+                  "right": "6x"
+                }
+              },
+              "image_vertical_gravity": "top"
+            },
+            "right": {
+              "type": "detail_right_view",
+              "margins": {
+                "right": "6x"
+              },
+              "vertical_gravity": "top",
+              "info_and_icon": {
+                "info": {
+                  "text": "399 ₽",
+                  "typeface": "body2",
+                  "text_color": "default"
+                }
+              }
+            }
+          },
+          {
+            "type": "left_right_cell_view",
+            "paddings": {
+              "top": "4x",
+              "left": "8x",
+              "bottom": "4x"
+            },
+            "actions": [
+              {
+                "type": "text",
+                "text": "Возобновить подписку Озон Премиум"
+              }
+            ],
+            "left": {
+              "type": "image_texts_left_cell_view",
+              "image": {
+                "url": "https://rskrf.ru/upload/iblock/2a3/5utlf0qui8et0bfvtc8bjuz50zsxu5ho.png",
+                "height": {
+                  "type": "fixed",
+                  "value": 40
+                },
+                "scale_mode": "scale_aspect_fit",
+                "width": {
+                  "type": "fixed",
+                  "value": 40
+                },
+                "margins": {
+                  "top": "2x",
+                  "right": "6x"
+                }
+              },
+              "texts": {
+                "title": {
+                  "text": "Озон Премиум >",
+              "typeface": "body1",
+                  "plasma_typeface": "body2",
+                  "plasma_text_color": "textPrimary"
+                },
+                "subtitle": {
+                  "text": "СберКарта ** 9112",
+              "typeface": "body1",
+                  "plasma_typeface": "body4",
+                  "plasma_text_color": "textSecondary"
+                },
+                "caption": {
+                  "text": "Списания запрещены",
+              "typeface": "body1",
+                  "plasma_typeface": "body4",
+                  "plasma_text_color": "textWarning"
+                },
+                "margins": {
+                  "left": "6x",
+                  "right": "6x"
+                }
+              },
+              "image_vertical_gravity": "top"
+            },
+            "right": {
+              "type": "detail_right_view",
+              "margins": {
+                "right": "6x"
+              },
+              "vertical_gravity": "top",
+              "info_and_icon": {
+                "info": {
+                  "text": "199 ₽",
+                  "typeface": "body2",
+                  "text_color": "default"
+                }
+              }
+            }
+          },
+          {
+            "type": "button_cell_view",
+            "content": {
+              "plasma_button": {
+                "text": "Включить уведомления о списаниях",
+                "actions": [
+                  {
+                    "type": "text",
+                    "text": "Включить уведомления о списаниях"
+                  }
+                ],
+                "style": "secondary"
+              }
+            },
+            "paddings": {
+              "left": "2x",
+              "right": "2x",
+              "top": "2x",
+              "bottom": "2x"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "suggestions": {
+    "buttons": [
+      {
+        "title": "Заблокировать все подписки",
+        "action": {
+          "text": "Заблокировать все подписки",
+          "type": "text"
+        }
+      },
+      {
+        "title": "Отключить уведомления о предстоящих списаниях",
+        "action": {
+          "text": "Отключить уведомления о предстоящих списаниях",
+          "type": "text"
+        }
+      }
+    ]
+  }
+}
